@@ -1,0 +1,765 @@
+{
+  "models": {
+    "mb_hq": {
+      "enabled": false
+    },
+    "sky_01": {
+      "scale": 0.6
+    },
+    "sky_02": {
+      "scale": 0.7
+    },
+    "sky_03": {
+      "scale": 0.6
+    },
+    "sky_04": {
+      "scale": 0.6
+    },
+    "sky_05": {
+      "scale": 0.6
+    },
+    "sky_06": {
+      "scale": 0.6
+    },
+    "sky_07": {
+      "scale": 0.61
+    },
+    "sky_08": {
+      "scale": 0.6
+    },
+    "sky_09": {
+      "scale": 0.6
+    },
+    "sky_10": {
+      "scale": 0.6
+    },
+    "sky_11": {
+      "scale": 0.6
+    },
+    "sky_12": {
+      "scale": 0.6
+    },
+    "sky_13": {
+      "scale": 0.59
+    },
+    "sky_14": {
+      "scale": 0.6
+    },
+    "sky_15": {
+      "scale": 0.6
+    },
+    "sky_16": {
+      "scale": 0.61
+    },
+    "sky_17": {
+      "scale": 0.61
+    },
+    "sky_18": {
+      "scale": 0.61
+    },
+    "sky_19": {
+      "scale": 0.6
+    },
+    "sky_20": {
+      "scale": 0.67,
+      "enabled": false
+    },
+    "sky_21": {
+      "scale": 0.6
+    },
+    "sky_22": {
+      "scale": 0.56
+    },
+    "sky_23": {
+      "scale": 0.6
+    },
+    "sky_24": {
+      "scale": 0.6
+    },
+    "sky_25": {
+      "enabled": false
+    },
+    "sky_26": {
+      "enabled": false
+    },
+    "sky_27": {
+      "enabled": false
+    },
+    "sky_28": {
+      "enabled": false
+    },
+    "sky_29": {
+      "enabled": false
+    },
+    "car_suv": {
+      "scale": 0.7
+    },
+    "car_van": {
+      "enabled": false
+    },
+    "lamp1la": {
+      "scale": 0.7
+    },
+    "rock_06": {
+      "enabled": false
+    },
+    "rock_31": {
+      "enabled": false
+    },
+    "car_taxi": {
+      "scale": 0.7
+    },
+    "ct_car_b": {
+      "scale": 0.9
+    },
+    "ct_car_c": {
+      "scale": 0.9
+    },
+    "ct_car_d": {
+      "scale": 0.9
+    },
+    "ct_suv_a": {
+      "scale": 0.9
+    },
+    "ct_suv_b": {
+      "scale": 0.9
+    },
+    "ct_van_a": {
+      "scale": 0.9
+    },
+    "ct_van_b": {
+      "scale": 0.9
+    },
+    "foodcart": {
+      "enabled": false
+    },
+    "hq_res_a": {
+      "lod": 3,
+      "scale": 0.9
+    },
+    "hq_res_b": {
+      "lod": 3,
+      "scale": 0.9
+    },
+    "hq_res_c": {
+      "lod": 3,
+      "scale": 0.9
+    },
+    "hq_res_d": {
+      "lod": 3,
+      "scale": 0.9
+    },
+    "hq_res_e": {
+      "lod": 3,
+      "scale": 0.9
+    },
+    "hq_res_f": {
+      "lod": 3,
+      "scale": 0.9
+    },
+    "hq_res_g": {
+      "lod": 3,
+      "scale": 0.9
+    },
+    "hq_res_h": {
+      "lod": 3,
+      "scale": 0.9
+    },
+    "hq_res_i": {
+      "lod": 3,
+      "scale": 0.9,
+      "enabled": false
+    },
+    "lamsp1ny": {
+      "scale": 0.7
+    },
+    "mailbox1": {
+      "scale": 0.7
+    },
+    "mb_crate": {
+      "scale": 1.66,
+      "weight": 1.9,
+      "enabled": false
+    },
+    "rp_pipes": {
+      "enabled": false
+    },
+    "tp_apt_a": {
+      "scale": 0.7
+    },
+    "tp_mil_a": {
+      "enabled": false
+    },
+    "tp_mil_c": {
+      "scale": 0.8
+    },
+    "tp_mil_e": {
+      "scale": 0.6
+    },
+    "tp_mil_f": {
+      "yOffset": -0.3
+    },
+    "tp_sub_c": {
+      "enabled": false
+    },
+    "tp_sub_d": {
+      "enabled": false
+    },
+    "tp_sub_e": {
+      "scale": 0.85
+    },
+    "city_bush": {
+      "weight": 0
+    },
+    "hy_res_a1": {
+      "scale": 0.6
+    },
+    "hy_res_a2": {
+      "scale": 0.5
+    },
+    "hy_res_a3": {
+      "scale": 0.5,
+      "enabled": false
+    },
+    "hy_res_a6": {
+      "scale": 0.5
+    },
+    "hy_res_b1": {
+      "scale": 0.7
+    },
+    "hy_res_b2": {
+      "scale": 0.5
+    },
+    "hy_res_b6": {
+      "scale": 0.8,
+      "enabled": false
+    },
+    "mb_tent_a": {
+      "enabled": false
+    },
+    "mb_tent_b": {
+      "enabled": false
+    },
+    "park_bush": {
+      "enabled": false
+    },
+    "rp_pallet": {
+      "enabled": false
+    },
+    "tp_com_c8": {
+      "enabled": false
+    },
+    "tp_ind_i1": {
+      "scale": 0.9,
+      "enabled": false
+    },
+    "tp_ind_i2": {
+      "scale": 0.7
+    },
+    "tp_ind_i3": {
+      "scale": 0.6
+    },
+    "tp_ind_i5": {
+      "enabled": false
+    },
+    "tp_ind_i7": {
+      "scale": 0.9
+    },
+    "tp_lab_r7": {
+      "enabled": false
+    },
+    "trashcan3": {
+      "scale": 0.7
+    },
+    "ct_truck_a": {
+      "scale": 0.9
+    },
+    "ct_truck_b": {
+      "scale": 0.9
+    },
+    "ct_truck_c": {
+      "scale": 0.9
+    },
+    "tp_apt_duo": {
+      "scale": 0.5
+    },
+    "trash4_lod": {
+      "enabled": false
+    },
+    "tree_fir_a": {
+      "scale": 1.4
+    },
+    "tree_fir_b": {
+      "scale": 0.7
+    },
+    "tree_oak_a": {
+      "scale": 0.5
+    },
+    "tree_oak_b": {
+      "scale": 0.2
+    },
+    "car_sedan_a": {
+      "scale": 0.9
+    },
+    "car_sedan_b": {
+      "scale": 0.7
+    },
+    "car_sedan_c": {
+      "scale": 0.7
+    },
+    "drain_round": {
+      "yOffset": 0.1
+    },
+    "firehydrant": {
+      "enabled": false
+    },
+    "lamptwin1ny": {
+      "scale": 0.7
+    },
+    "mb_bar_gate": {
+      "enabled": false
+    },
+    "mb_barracks": {
+      "enabled": false
+    },
+    "park_tree_1": {
+      "enabled": false
+    },
+    "park_tree_2": {
+      "enabled": false
+    },
+    "park_tree_3": {
+      "enabled": false
+    },
+    "rodin_apt_a": {
+      "scale": 0.77,
+      "enabled": false
+    },
+    "rodin_mil_a": {
+      "lod": 3,
+      "scale": 0.7
+    },
+    "rodin_mil_b": {
+      "lod": 3,
+      "scale": 0.7
+    },
+    "rodin_mil_c": {
+      "lod": 3,
+      "scale": 0.4,
+      "enabled": false
+    },
+    "rodin_mil_d": {
+      "lod": 3,
+      "scale": 0.7,
+      "enabled": false
+    },
+    "rodin_mil_e": {
+      "lod": 3,
+      "scale": 0.6
+    },
+    "rodin_mil_f": {
+      "lod": 3,
+      "scale": 0.6
+    },
+    "rodin_sub_a": {
+      "lod": 3,
+      "scale": 0.7,
+      "enabled": false
+    },
+    "rodin_sub_b": {
+      "lod": 3,
+      "scale": 0.7
+    },
+    "rodin_sub_c": {
+      "lod": 3,
+      "scale": 0.7,
+      "enabled": false
+    },
+    "rodin_sub_d": {
+      "lod": 3,
+      "scale": 0.6,
+      "enabled": false
+    },
+    "rodin_sub_e": {
+      "lod": 3,
+      "enabled": false
+    },
+    "rodin_sub_f": {
+      "lod": 3,
+      "scale": 0.7
+    },
+    "rodin_sub_g": {
+      "lod": 3,
+      "scale": 0.6,
+      "enabled": false
+    },
+    "rodin_vesta": {
+      "lod": 3,
+      "scale": 0.86,
+      "enabled": false
+    },
+    "rp_hangar_a": {
+      "scale": 0.9
+    },
+    "rp_hangar_b": {
+      "scale": 0.5
+    },
+    "rp_hangar_c": {
+      "scale": 0.7
+    },
+    "rp_hangar_d": {
+      "scale": 0.7
+    },
+    "tree_park_a": {
+      "scale": 0.75,
+      "enabled": false
+    },
+    "tree_pine_a": {
+      "scale": 0.45
+    },
+    "bush_flora_a": {
+      "scale": 0.3
+    },
+    "bush_flora_b": {
+      "scale": 0.15
+    },
+    "busstope_lod": {
+      "scale": 0.6
+    },
+    "drain_gutter": {
+      "enabled": false
+    },
+    "mb_container": {
+      "scale": 0.55,
+      "zones": [
+        "military"
+      ],
+      "enabled": false
+    },
+    "rodin_com_c1": {
+      "scale": 0.82
+    },
+    "rodin_com_c2": {
+      "lod": 3,
+      "scale": 0.6
+    },
+    "rodin_com_c3": {
+      "lod": 3,
+      "scale": 0.77
+    },
+    "rodin_com_c4": {
+      "lod": 3
+    },
+    "rodin_com_c5": {
+      "lod": 3,
+      "scale": 0.69
+    },
+    "rodin_com_c6": {
+      "lod": 3,
+      "scale": 0.7
+    },
+    "rodin_com_c7": {
+      "lod": 3,
+      "scale": 0.7
+    },
+    "rodin_com_c8": {
+      "lod": 3,
+      "scale": 0.72,
+      "enabled": false
+    },
+    "rodin_com_c9": {
+      "scale": 0.42
+    },
+    "rodin_ind_i1": {
+      "lod": 3,
+      "scale": 0.57
+    },
+    "rodin_ind_i2": {
+      "scale": 0.6
+    },
+    "rodin_ind_i3": {
+      "scale": 0.5
+    },
+    "rodin_ind_i4": {
+      "lod": 3,
+      "scale": 0.5,
+      "weight": 3
+    },
+    "rodin_ind_i5": {
+      "lod": 3,
+      "scale": 0.5
+    },
+    "rodin_ind_i6": {
+      "lod": 3,
+      "scale": 0.6
+    },
+    "rodin_ind_i7": {
+      "lod": 3,
+      "scale": 0.45
+    },
+    "rodin_lab_r1": {
+      "lod": 3,
+      "scale": 0.9
+    },
+    "rodin_lab_r2": {
+      "scale": 0.7
+    },
+    "rodin_lab_r3": {
+      "lod": 3,
+      "scale": 0.7
+    },
+    "rodin_lab_r4": {
+      "lod": 3,
+      "scale": 0.5
+    },
+    "rodin_lab_r5": {
+      "scale": 0.8
+    },
+    "rodin_lab_r6": {
+      "lod": 3,
+      "scale": 0.8
+    },
+    "rodin_lab_r7": {
+      "lod": 3,
+      "scale": 0.7,
+      "yOffset": -1.1
+    },
+    "rodin_lab_r8": {
+      "lod": 1,
+      "scale": 0.7
+    },
+    "rodin_res_a1": {
+      "lod": 3,
+      "scale": 0.7
+    },
+    "rodin_res_a2": {
+      "scale": 0.75,
+      "enabled": false
+    },
+    "rodin_res_a3": {
+      "enabled": false
+    },
+    "rodin_res_a4": {
+      "lod": 3,
+      "scale": 0.94,
+      "enabled": false
+    },
+    "rodin_res_a5": {
+      "lod": 3,
+      "scale": 0.7,
+      "enabled": false
+    },
+    "rodin_res_a6": {
+      "lod": 3,
+      "scale": 0.73,
+      "enabled": false
+    },
+    "rodin_res_b1": {
+      "lod": 3,
+      "enabled": false
+    },
+    "rodin_res_b2": {
+      "lod": 3,
+      "scale": 0.9,
+      "enabled": false
+    },
+    "rodin_res_b3": {
+      "enabled": false
+    },
+    "rodin_res_b4": {
+      "lod": 3,
+      "enabled": false
+    },
+    "rodin_res_b5": {
+      "lod": 3,
+      "scale": 0.9,
+      "enabled": false
+    },
+    "rodin_res_b6": {
+      "lod": 3,
+      "scale": 0.87,
+      "enabled": false
+    },
+    "rodin_town_a": {
+      "lod": 3,
+      "scale": 0.7
+    },
+    "rodin_town_b": {
+      "lod": 3,
+      "scale": 0.7
+    },
+    "rodin_town_c": {
+      "lod": 3,
+      "scale": 0.6
+    },
+    "rodin_town_d": {
+      "lod": 3,
+      "scale": 0.7
+    },
+    "rp_container": {
+      "scale": 0.7
+    },
+    "tp_com_off_a": {
+      "scale": 0.7
+    },
+    "tp_ind_tanks": {
+      "scale": 0.6
+    },
+    "tp_mil_depot": {
+      "scale": 0.7
+    },
+    "tp_mil_green": {
+      "scale": 0.6
+    },
+    "tp_mil_radar": {
+      "scale": 0.9
+    },
+    "tp_mil_tower": {
+      "scale": 0.6
+    },
+    "tree_laxer_a": {
+      "scale": 0.55,
+      "enabled": false
+    },
+    "rodin_com_c10": {
+      "lod": 3,
+      "scale": 0.5
+    },
+    "rodin_com_c11": {
+      "lod": 3,
+      "scale": 0.67,
+      "enabled": false
+    },
+    "rodin_ind_sub": {
+      "lod": 3
+    },
+    "rp_oil_tank_a": {
+      "scale": 0.7
+    },
+    "rp_oil_tank_b": {
+      "scale": 2
+    },
+    "street_tree_a": {
+      "weight": 0,
+      "enabled": false,
+      "yOffset": -1.2
+    },
+    "street_tree_b": {
+      "weight": 0
+    },
+    "street_tree_c": {
+      "weight": 0
+    },
+    "street_tree_d": {
+      "weight": 0
+    },
+    "tp_ind_barn_a": {
+      "scale": 0.5,
+      "lowDevelopment": true
+    },
+    "tp_ind_farm_a": {
+      "lowDevelopment": true
+    },
+    "tp_powerplant": {
+      "scale": 0.8
+    },
+    "building1c_lod": {
+      "weight": 1.35
+    },
+    "mb_cable_spool": {
+      "scale": 0.7,
+      "enabled": false
+    },
+    "mb_crate_large": {
+      "weight": 1.5,
+      "enabled": false
+    },
+    "mb_guard_tower": {
+      "enabled": false
+    },
+    "rock_granite_a": {
+      "enabled": false
+    },
+    "rodin_ind_shed": {
+      "lod": 3,
+      "scale": 0.65,
+      "enabled": false
+    },
+    "rodin_ind_shop": {
+      "lod": 3
+    },
+    "rodin_ind_tank": {
+      "lod": 3,
+      "scale": 1.2,
+      "enabled": false
+    },
+    "rodin_lab_data": {
+      "lod": 3,
+      "enabled": false
+    },
+    "tp_apt_small_a": {
+      "scale": 0.7,
+      "weight": 0.7
+    },
+    "tp_apt_small_b": {
+      "enabled": false
+    },
+    "tp_apt_small_c": {
+      "enabled": false
+    },
+    "tp_comres_hall": {
+      "scale": 0.8
+    },
+    "tp_ind_crops_a": {
+      "lowDevelopment": true
+    },
+    "mb_barrier_wall": {
+      "scale": 0.7,
+      "enabled": false
+    },
+    "plantblockround": {
+      "enabled": false
+    },
+    "rodin_com_shop2": {
+      "scale": 0.45
+    },
+    "rodin_com_strip": {
+      "lod": 3,
+      "scale": 1.32
+    },
+    "rodin_lab_green": {
+      "lod": 3
+    },
+    "rodin_com_corner": {
+      "lod": 3,
+      "scale": 0.46,
+      "enabled": false
+    },
+    "rodin_lab_sensor": {
+      "lod": 3,
+      "scale": 0.8
+    },
+    "streetlight2_lod": {
+      "scale": 0.7
+    },
+    "streetlight3_lod": {
+      "scale": 0.7
+    },
+    "waterpumpred_lod": {
+      "scale": 0.8
+    },
+    "mb_barrack_single": {
+      "enabled": false
+    },
+    "tp_ind_farmland_a": {
+      "lowDevelopment": true
+    },
+    "wl_mil_barracks_m": {
+      "yOffset": -1
+    },
+    "mb_concrete_barrier": {
+      "scale": 0.7
+    }
+  },
+  "version": 1
+}

@@ -1,0 +1,13 @@
+{
+  "size": 512,
+  "min": 0,
+  "max": 1,
+  "source": "mountain_a.bin + erode-height-stamp.mjs",
+  "erosion": {
+    "seed": 1337,
+    "ridgeAmp": 0.34,
+    "thermalIters": 70,
+    "talus": 0.011,
+    "droplets": 140000
+  }
+}

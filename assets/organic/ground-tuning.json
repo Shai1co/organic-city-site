@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "surfaces": {
+    "zone.commercial": {
+      "tint": "#e0ecff",
+      "latticeScale": 2
+    },
+    "zone.industrial": {
+      "latticeScale": 2
+    },
+    "zone.military": {
+      "tileMeters": 2,
+      "tint": "#d2ceb9",
+      "latticeScale": 4,
+      "dirtStrength": 0.5
+    },
+    "zone.research": {
+      "tint": "#ffffff"
+    },
+    "zone.residential": {
+      "tileMeters": 2,
+      "tint": "#ebffee",
+      "latticeScale": 2,
+      "previewTextureId": "09c644fb2e3e"
+    },
+    "park.grass": {
+      "tileMeters": 2,
+      "tint": "#c4f0a8",
+      "latticeScale": 2.95
+    },
+    "park.trail": {
+      "tileMeters": 2,
+      "tint": "#e6e6e6"
+    },
+    "terrain.sand": {
+      "tint": "#cfc9a8",
+      "latticeScale": 2.35
+    },
+    "terrain.grass": {
+      "tileMeters": 2.8,
+      "tint": "#c8d9a8",
+      "dirtStrength": 0.48,
+      "latticeScale": 4
+    }
+  }
+}

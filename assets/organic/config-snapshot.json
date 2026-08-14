@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "apiBase": "https://ekqmvwmwbbvtucjfkkev.supabase.co/functions/v1",
+  "documents": {
+    "modelOverrides": {
+      "revision": 291,
+      "entries": 219,
+      "sha256": "c26ddd10b3f6e22f48a165abb08c5a055934829a0e5eb02b8279a60f25f6e6c8",
+      "applied": true
+    },
+    "groundTuning": {
+      "revision": 0,
+      "remoteSurfaces": 0,
+      "remoteSha256": "7ff033551cb3ccc22534e6e2c6448a1e83ccfbd5f9949b6c2b19c0884dd8f5c9",
+      "effectiveSource": "checked-in",
+      "effectiveSha256": "262411d4f2b7695b44862bee50530feeb03a717f570f9095204e849d622d0e96",
+      "applied": false
+    }
+  }
+}

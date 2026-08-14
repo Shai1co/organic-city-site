@@ -1,0 +1,5905 @@
+{
+  "models": {
+    "benchmetal1": {
+      "category": "prop",
+      "size": {
+        "w": 1.74,
+        "d": 0.79,
+        "h": 1.08
+      },
+      "materials": [
+        "m_benches_albedo"
+      ]
+    },
+    "benchwood1": {
+      "category": "prop",
+      "size": {
+        "w": 1.8,
+        "d": 0.83,
+        "h": 1.05
+      },
+      "materials": [
+        "m_benches_albedo"
+      ]
+    },
+    "busstop": {
+      "category": "prop",
+      "size": {
+        "w": 1.94,
+        "d": 3.86,
+        "h": 2.55
+      },
+      "materials": [
+        "m_cbu_props1_albedo"
+      ]
+    },
+    "busstope_lod": {
+      "category": "prop",
+      "size": {
+        "w": 1.94,
+        "d": 3.86,
+        "h": 2.55
+      },
+      "materials": [
+        "m_cbu_props1_albedo"
+      ]
+    },
+    "firehydrant": {
+      "category": "prop",
+      "size": {
+        "w": 0.3,
+        "d": 0.31,
+        "h": 0.64
+      },
+      "materials": [
+        "m_streetprops1_albedo"
+      ]
+    },
+    "foodcart": {
+      "category": "prop",
+      "size": {
+        "w": 2.69,
+        "d": 1.74,
+        "h": 1.88
+      },
+      "materials": [
+        "m_foodcart_albedo"
+      ]
+    },
+    "lamp1la": {
+      "category": "prop",
+      "size": {
+        "w": 0.4,
+        "d": 3.12,
+        "h": 5.99
+      },
+      "materials": [
+        "m_trafficlights2_albedo"
+      ]
+    },
+    "lamptwin1ny": {
+      "category": "prop",
+      "size": {
+        "w": 0.99,
+        "d": 6.14,
+        "h": 7.35
+      },
+      "materials": [
+        "m_trafficlights2_albedo"
+      ]
+    },
+    "lamsp1ny": {
+      "category": "prop",
+      "size": {
+        "w": 0.99,
+        "d": 3.32,
+        "h": 7.35
+      },
+      "materials": [
+        "m_trafficlights2_albedo"
+      ]
+    },
+    "mailbox1": {
+      "category": "prop",
+      "size": {
+        "w": 0.6,
+        "d": 0.56,
+        "h": 1.09
+      },
+      "materials": [
+        "m_streetprops1_albedo"
+      ]
+    },
+    "mailbox_lod": {
+      "category": "prop",
+      "size": {
+        "w": 0.69,
+        "d": 0.72,
+        "h": 1.03
+      },
+      "materials": [
+        "m_props_albedo"
+      ]
+    },
+    "newspapervending1": {
+      "category": "prop",
+      "size": {
+        "w": 0.59,
+        "d": 0.45,
+        "h": 1.37
+      },
+      "materials": [
+        "m_streetprops1_albedo"
+      ]
+    },
+    "plantbed1": {
+      "category": "prop",
+      "size": {
+        "w": 1.04,
+        "d": 0.6,
+        "h": 0.76
+      },
+      "materials": [
+        "m_plantbeds_albedo"
+      ]
+    },
+    "plantbedtree": {
+      "category": "prop",
+      "size": {
+        "w": 1.04,
+        "d": 1,
+        "h": 1.56
+      },
+      "materials": [
+        "m_plantbeds_albedo"
+      ]
+    },
+    "plantblockround": {
+      "category": "prop",
+      "size": {
+        "w": 0.77,
+        "d": 0.77,
+        "h": 0.68
+      },
+      "materials": [
+        "m_plantdisplayround"
+      ]
+    },
+    "roadsign1_lod": {
+      "category": "prop",
+      "size": {
+        "w": 0.62,
+        "d": 0.14,
+        "h": 2.49
+      },
+      "materials": [
+        "m_props_albedo"
+      ]
+    },
+    "roadsign2_lod": {
+      "category": "prop",
+      "size": {
+        "w": 0.86,
+        "d": 0.14,
+        "h": 2.68
+      },
+      "materials": [
+        "m_props_albedo"
+      ]
+    },
+    "streephone_lod": {
+      "category": "prop",
+      "size": {
+        "w": 1.28,
+        "d": 1.65,
+        "h": 2.11
+      },
+      "materials": [
+        "m_props_albedo"
+      ]
+    },
+    "streetchair_lod": {
+      "category": "prop",
+      "size": {
+        "w": 0.94,
+        "d": 1.97,
+        "h": 1.26
+      },
+      "materials": [
+        "m_props_albedo"
+      ]
+    },
+    "streetlight1_lod": {
+      "category": "prop",
+      "size": {
+        "w": 3.23,
+        "d": 0.53,
+        "h": 5.09
+      },
+      "materials": [
+        "m_props_albedo"
+      ]
+    },
+    "streetlight2_lod": {
+      "category": "prop",
+      "size": {
+        "w": 1.01,
+        "d": 0.71,
+        "h": 5.03
+      },
+      "materials": [
+        "m_props_albedo"
+      ]
+    },
+    "streetlight3_lod": {
+      "category": "prop",
+      "size": {
+        "w": 2.37,
+        "d": 0.69,
+        "h": 5.1
+      },
+      "materials": [
+        "m_props_albedo"
+      ]
+    },
+    "trafficlight1ny": {
+      "category": "prop",
+      "size": {
+        "w": 2.42,
+        "d": 5.19,
+        "h": 7.36
+      },
+      "materials": [
+        "m_trafficlights2_albedo"
+      ]
+    },
+    "trash1_lod": {
+      "category": "prop",
+      "size": {
+        "w": 0.52,
+        "d": 0.52,
+        "h": 1.17
+      },
+      "materials": [
+        "m_props_albedo"
+      ]
+    },
+    "trash3_lod": {
+      "category": "prop",
+      "size": {
+        "w": 0.32,
+        "d": 0.86,
+        "h": 0.93
+      },
+      "materials": [
+        "m_props_albedo"
+      ]
+    },
+    "trash4_lod": {
+      "category": "prop",
+      "size": {
+        "w": 1.29,
+        "d": 1.82,
+        "h": 1.77
+      },
+      "materials": [
+        "m_props_albedo"
+      ]
+    },
+    "trashcan": {
+      "category": "prop",
+      "size": {
+        "w": 0.54,
+        "d": 0.54,
+        "h": 0.98
+      },
+      "materials": [
+        "m_trashcan"
+      ]
+    },
+    "trashcan2": {
+      "category": "prop",
+      "size": {
+        "w": 0.49,
+        "d": 0.49,
+        "h": 0.85
+      },
+      "materials": [
+        "m_streetprops1_albedo"
+      ]
+    },
+    "waterpumpred_lod": {
+      "category": "prop",
+      "size": {
+        "w": 0.41,
+        "d": 0.48,
+        "h": 0.86
+      },
+      "materials": [
+        "m_props_albedo"
+      ]
+    },
+    "rodin_apt_a": {
+      "category": "tower",
+      "size": {
+        "w": 25.33,
+        "d": 25.73,
+        "h": 32
+      },
+      "materials": [
+        "m_rodin_apt_a_albedo"
+      ]
+    },
+    "rodin_res_a1": {
+      "category": "building",
+      "size": {
+        "w": 11.62,
+        "d": 8.46,
+        "h": 13
+      },
+      "materials": [
+        "m_rodin_res_a1_albedo"
+      ]
+    },
+    "rodin_res_a3": {
+      "category": "building",
+      "size": {
+        "w": 24.52,
+        "d": 11.4,
+        "h": 19
+      },
+      "materials": [
+        "m_rodin_res_a3_albedo"
+      ]
+    },
+    "rodin_res_a4": {
+      "category": "building",
+      "size": {
+        "w": 25.57,
+        "d": 14.91,
+        "h": 31
+      },
+      "materials": [
+        "m_rodin_res_a4_albedo"
+      ]
+    },
+    "rodin_res_a5": {
+      "category": "building",
+      "size": {
+        "w": 19.75,
+        "d": 13.51,
+        "h": 37
+      },
+      "materials": [
+        "m_rodin_res_a5_albedo"
+      ]
+    },
+    "rodin_res_a6": {
+      "category": "building",
+      "size": {
+        "w": 25.5,
+        "d": 20.54,
+        "h": 28
+      },
+      "materials": [
+        "m_rodin_res_a6_albedo"
+      ]
+    },
+    "rodin_res_b1": {
+      "category": "building",
+      "size": {
+        "w": 12.32,
+        "d": 10.5,
+        "h": 14
+      },
+      "materials": [
+        "m_rodin_res_b1_albedo"
+      ]
+    },
+    "rodin_res_b2": {
+      "category": "building",
+      "size": {
+        "w": 25.2,
+        "d": 15.23,
+        "h": 19
+      },
+      "materials": [
+        "m_rodin_res_b2_albedo"
+      ]
+    },
+    "rodin_res_b3": {
+      "category": "building",
+      "size": {
+        "w": 45.42,
+        "d": 13.44,
+        "h": 25
+      },
+      "materials": [
+        "m_rodin_res_b3_albedo"
+      ]
+    },
+    "rodin_res_b4": {
+      "category": "building",
+      "size": {
+        "w": 24.4,
+        "d": 19.55,
+        "h": 34
+      },
+      "materials": [
+        "m_rodin_res_b4_albedo"
+      ]
+    },
+    "rodin_res_b5": {
+      "category": "building",
+      "size": {
+        "w": 24.3,
+        "d": 21.35,
+        "h": 37
+      },
+      "materials": [
+        "m_rodin_res_b5_albedo"
+      ]
+    },
+    "rodin_res_b6": {
+      "category": "building",
+      "size": {
+        "w": 21.21,
+        "d": 18.68,
+        "h": 22
+      },
+      "materials": [
+        "m_rodin_res_b6_albedo"
+      ]
+    },
+    "rodin_vesta": {
+      "category": "building",
+      "size": {
+        "w": 26.07,
+        "d": 21.09,
+        "h": 37
+      },
+      "materials": [
+        "m_rodin_vesta_albedo"
+      ]
+    },
+    "rodin_res_a2": {
+      "category": "building",
+      "size": {
+        "w": 17.95,
+        "d": 17.58,
+        "h": 16
+      },
+      "materials": [
+        "m_rodin_res_a2_albedo"
+      ]
+    },
+    "rodin_com_c1": {
+      "category": "building",
+      "size": {
+        "w": 9.98,
+        "d": 9.67,
+        "h": 8.07
+      },
+      "materials": [
+        "m_rodin_com_c1_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "rodin_com_c2": {
+      "category": "tower",
+      "size": {
+        "w": 26.25,
+        "d": 27.11,
+        "h": 32
+      },
+      "materials": [
+        "m_rodin_com_c2_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "rodin_com_c3": {
+      "category": "tower",
+      "size": {
+        "w": 25.31,
+        "d": 27.51,
+        "h": 60
+      },
+      "materials": [
+        "m_rodin_com_c3_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "rodin_com_c4": {
+      "category": "building",
+      "size": {
+        "w": 68.79,
+        "d": 36.1,
+        "h": 16
+      },
+      "materials": [
+        "m_rodin_com_c4_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "rodin_com_c5": {
+      "category": "tower",
+      "size": {
+        "w": 28.33,
+        "d": 31.66,
+        "h": 42
+      },
+      "materials": [
+        "m_rodin_com_c5_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "rodin_com_c6": {
+      "category": "building",
+      "size": {
+        "w": 21.19,
+        "d": 19.29,
+        "h": 24
+      },
+      "materials": [
+        "m_rodin_com_c6_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "rodin_com_c7": {
+      "category": "building",
+      "size": {
+        "w": 29.68,
+        "d": 38.76,
+        "h": 10
+      },
+      "materials": [
+        "m_rodin_com_c7_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "rodin_ind_i1": {
+      "category": "building",
+      "size": {
+        "w": 50,
+        "d": 29.79,
+        "h": 9.3
+      },
+      "materials": [
+        "m_rodin_ind_i1_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "rodin_ind_i2": {
+      "category": "building",
+      "size": {
+        "w": 10.41,
+        "d": 21.71,
+        "h": 7.52
+      },
+      "materials": [
+        "m_rodin_ind_i2_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "rodin_ind_i3": {
+      "category": "building",
+      "size": {
+        "w": 27.21,
+        "d": 30.69,
+        "h": 23.84
+      },
+      "materials": [
+        "m_rodin_ind_i3_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "rodin_ind_i4": {
+      "category": "building",
+      "size": {
+        "w": 106.93,
+        "d": 44.55,
+        "h": 13
+      },
+      "materials": [
+        "m_rodin_ind_i4_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "rodin_ind_i5": {
+      "category": "building",
+      "size": {
+        "w": 16.8,
+        "d": 16.96,
+        "h": 8
+      },
+      "materials": [
+        "m_rodin_ind_i5_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "rodin_ind_i6": {
+      "category": "building",
+      "size": {
+        "w": 25.04,
+        "d": 25.17,
+        "h": 25
+      },
+      "materials": [
+        "m_rodin_ind_i6_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "rodin_ind_i7": {
+      "category": "building",
+      "size": {
+        "w": 39.29,
+        "d": 36.01,
+        "h": 22
+      },
+      "materials": [
+        "m_rodin_ind_i7_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "rodin_lab_r1": {
+      "category": "building",
+      "size": {
+        "w": 27.23,
+        "d": 10.69,
+        "h": 22
+      },
+      "materials": [
+        "m_rodin_lab_r1_albedo"
+      ],
+      "zones": [
+        "research"
+      ]
+    },
+    "rodin_lab_r2": {
+      "category": "building",
+      "size": {
+        "w": 25.37,
+        "d": 15.94,
+        "h": 21.6
+      },
+      "materials": [
+        "m_rodin_lab_r2_albedo"
+      ],
+      "zones": [
+        "research"
+      ]
+    },
+    "rodin_lab_r3": {
+      "category": "building",
+      "size": {
+        "w": 29.51,
+        "d": 25.53,
+        "h": 32
+      },
+      "materials": [
+        "m_rodin_lab_r3_albedo"
+      ],
+      "zones": [
+        "research"
+      ]
+    },
+    "rodin_lab_r4": {
+      "category": "building",
+      "size": {
+        "w": 18.74,
+        "d": 20.94,
+        "h": 14
+      },
+      "materials": [
+        "m_rodin_lab_r4_albedo"
+      ],
+      "zones": [
+        "research"
+      ]
+    },
+    "rodin_lab_r5": {
+      "category": "building",
+      "size": {
+        "w": 15.34,
+        "d": 19.35,
+        "h": 17.53
+      },
+      "materials": [
+        "m_rodin_lab_r5_albedo"
+      ],
+      "zones": [
+        "research"
+      ]
+    },
+    "rodin_lab_r6": {
+      "category": "building",
+      "size": {
+        "w": 16.21,
+        "d": 16.77,
+        "h": 17
+      },
+      "materials": [
+        "m_rodin_lab_r6_albedo"
+      ],
+      "zones": [
+        "research"
+      ]
+    },
+    "rodin_sub_a": {
+      "category": "building",
+      "size": {
+        "w": 12.16,
+        "d": 8.7,
+        "h": 5.5
+      },
+      "materials": [
+        "m_rodin_sub_a_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "rodin_sub_b": {
+      "category": "building",
+      "size": {
+        "w": 12.21,
+        "d": 12.06,
+        "h": 8.5
+      },
+      "materials": [
+        "m_rodin_sub_b_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "rodin_sub_c": {
+      "category": "building",
+      "size": {
+        "w": 10.08,
+        "d": 11.35,
+        "h": 7
+      },
+      "materials": [
+        "m_rodin_sub_c_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "rodin_sub_d": {
+      "category": "building",
+      "size": {
+        "w": 9.7,
+        "d": 8.77,
+        "h": 8
+      },
+      "materials": [
+        "m_rodin_sub_d_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "rodin_town_a": {
+      "category": "building",
+      "size": {
+        "w": 15.31,
+        "d": 8.32,
+        "h": 12
+      },
+      "materials": [
+        "m_rodin_town_a_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "rodin_town_b": {
+      "category": "building",
+      "size": {
+        "w": 17.79,
+        "d": 9.49,
+        "h": 11.5
+      },
+      "materials": [
+        "m_rodin_town_b_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "rodin_town_c": {
+      "category": "building",
+      "size": {
+        "w": 17.22,
+        "d": 9.44,
+        "h": 13.5
+      },
+      "materials": [
+        "m_rodin_town_c_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "rodin_town_d": {
+      "category": "building",
+      "size": {
+        "w": 13.58,
+        "d": 10.78,
+        "h": 8.5
+      },
+      "materials": [
+        "m_rodin_town_d_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "rodin_mil_a": {
+      "category": "building",
+      "size": {
+        "w": 26.3,
+        "d": 10.74,
+        "h": 5
+      },
+      "materials": [
+        "m_rodin_mil_a_albedo"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "rodin_mil_b": {
+      "category": "building",
+      "size": {
+        "w": 8.58,
+        "d": 10.68,
+        "h": 12
+      },
+      "materials": [
+        "m_rodin_mil_b_albedo"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "rodin_mil_c": {
+      "category": "building",
+      "size": {
+        "w": 21.38,
+        "d": 23.36,
+        "h": 12
+      },
+      "materials": [
+        "m_rodin_mil_c_albedo"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "rodin_mil_d": {
+      "category": "building",
+      "size": {
+        "w": 9,
+        "d": 11.18,
+        "h": 14
+      },
+      "materials": [
+        "m_rodin_mil_d_albedo"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "rodin_mil_e": {
+      "category": "building",
+      "size": {
+        "w": 19.33,
+        "d": 11.95,
+        "h": 6.5
+      },
+      "materials": [
+        "m_rodin_mil_e_albedo"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "rodin_mil_f": {
+      "category": "building",
+      "size": {
+        "w": 9.36,
+        "d": 9.41,
+        "h": 5
+      },
+      "materials": [
+        "m_rodin_mil_f_albedo"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "rodin_com_c10": {
+      "category": "tower",
+      "size": {
+        "w": 42.62,
+        "d": 35.37,
+        "h": 78
+      },
+      "materials": [
+        "m_rodin_com_c10_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "rodin_com_c11": {
+      "category": "tower",
+      "size": {
+        "w": 33.97,
+        "d": 34.3,
+        "h": 90
+      },
+      "materials": [
+        "m_rodin_com_c11_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "rodin_com_c8": {
+      "category": "building",
+      "size": {
+        "w": 6.52,
+        "d": 6.53,
+        "h": 6
+      },
+      "materials": [
+        "m_rodin_com_c8_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "rodin_com_c9": {
+      "category": "tower",
+      "size": {
+        "w": 39.2,
+        "d": 37.42,
+        "h": 65
+      },
+      "materials": [
+        "m_rodin_com_c9_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "rodin_lab_r7": {
+      "category": "building",
+      "size": {
+        "w": 15,
+        "d": 12.55,
+        "h": 7
+      },
+      "materials": [
+        "m_rodin_lab_r7_albedo"
+      ],
+      "zones": [
+        "research"
+      ]
+    },
+    "rodin_lab_r8": {
+      "category": "building",
+      "size": {
+        "w": 29.98,
+        "d": 28.16,
+        "h": 45
+      },
+      "materials": [
+        "m_rodin_lab_r8_albedo"
+      ],
+      "zones": [
+        "research"
+      ]
+    },
+    "rodin_sub_e": {
+      "category": "building",
+      "size": {
+        "w": 5.01,
+        "d": 5.92,
+        "h": 6
+      },
+      "materials": [
+        "m_rodin_sub_e_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "rodin_sub_f": {
+      "category": "building",
+      "size": {
+        "w": 9.03,
+        "d": 7.98,
+        "h": 5.5
+      },
+      "materials": [
+        "m_rodin_sub_f_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "rodin_sub_g": {
+      "category": "building",
+      "size": {
+        "w": 7.53,
+        "d": 9.7,
+        "h": 7.5
+      },
+      "materials": [
+        "m_rodin_sub_g_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "street_tree_a": {
+      "category": "tree",
+      "size": {
+        "w": 5.21,
+        "d": 5.39,
+        "h": 6.5
+      },
+      "materials": [
+        "m_veg_cherry_bark",
+        "m_veg_cherry_leaf"
+      ]
+    },
+    "street_tree_b": {
+      "category": "tree",
+      "size": {
+        "w": 5.02,
+        "d": 5.23,
+        "h": 9
+      },
+      "materials": [
+        "m_veg_med_bark",
+        "m_veg_med_leaf"
+      ]
+    },
+    "street_tree_c": {
+      "category": "tree",
+      "size": {
+        "w": 4.47,
+        "d": 4.65,
+        "h": 8
+      },
+      "materials": [
+        "m_veg_med_bark",
+        "m_veg_med_leaf"
+      ]
+    },
+    "street_tree_d": {
+      "category": "tree",
+      "size": {
+        "w": 4.79,
+        "d": 4.69,
+        "h": 8.5
+      },
+      "materials": [
+        "m_veg_med_bark",
+        "m_veg_med_leaf"
+      ]
+    },
+    "city_bush": {
+      "category": "tree",
+      "size": {
+        "w": 1.52,
+        "d": 1.53,
+        "h": 1.15
+      },
+      "materials": [
+        "m_veg_garden"
+      ]
+    },
+    "trashcan3": {
+      "category": "prop",
+      "size": {
+        "w": 0.58,
+        "d": 0.58,
+        "h": 1.1
+      },
+      "materials": [
+        "m_streetprops1_albedo"
+      ]
+    },
+    "bollard": {
+      "category": "prop",
+      "size": {
+        "w": 0.17,
+        "d": 0.17,
+        "h": 1
+      },
+      "materials": [
+        "m_cbu_props1_albedo"
+      ]
+    },
+    "bollard_small": {
+      "category": "prop",
+      "size": {
+        "w": 0.08,
+        "d": 0.09,
+        "h": 0.42
+      },
+      "materials": [
+        "m_cbu_props1_albedo"
+      ]
+    },
+    "drain_gutter": {
+      "category": "prop",
+      "size": {
+        "w": 1.9,
+        "d": 2.69,
+        "h": 0.02
+      },
+      "materials": [
+        "m_cbu_props1_albedo"
+      ]
+    },
+    "drain_round": {
+      "category": "prop",
+      "size": {
+        "w": 0.6,
+        "d": 0.62,
+        "h": 0.02
+      },
+      "materials": [
+        "m_cbu_props1_albedo"
+      ]
+    },
+    "roadcone_cbu": {
+      "category": "prop",
+      "size": {
+        "w": 0.51,
+        "d": 0.59,
+        "h": 0.63
+      },
+      "materials": [
+        "m_cbu_props2_albedo"
+      ]
+    },
+    "powerpole_a": {
+      "category": "prop",
+      "size": {
+        "w": 1.76,
+        "d": 0.55,
+        "h": 7.5
+      },
+      "materials": [
+        "m_lsp_atlas",
+        "m_lsp_signs"
+      ]
+    },
+    "powerpole_b": {
+      "category": "prop",
+      "size": {
+        "w": 1.94,
+        "d": 0.6,
+        "h": 7.5
+      },
+      "materials": [
+        "m_lsp_atlas",
+        "m_lsp_signs"
+      ]
+    },
+    "streetsign_a": {
+      "category": "prop",
+      "size": {
+        "w": 0.07,
+        "d": 0.84,
+        "h": 2.6
+      },
+      "materials": [
+        "m_lsp_atlas",
+        "m_lsp_signs"
+      ]
+    },
+    "streetsign_c": {
+      "category": "prop",
+      "size": {
+        "w": 0.07,
+        "d": 0.84,
+        "h": 2.6
+      },
+      "materials": [
+        "m_lsp_atlas",
+        "m_lsp_signs"
+      ]
+    },
+    "streetsign_e": {
+      "category": "prop",
+      "size": {
+        "w": 0.07,
+        "d": 0.6,
+        "h": 2.6
+      },
+      "materials": [
+        "m_lsp_atlas",
+        "m_lsp_signs"
+      ]
+    },
+    "roadmark_f": {
+      "category": "prop",
+      "size": {
+        "w": 1.77,
+        "d": 5.55,
+        "h": 0.01
+      },
+      "materials": [
+        "m_lsp_markings"
+      ]
+    },
+    "roadmark_fr": {
+      "category": "prop",
+      "size": {
+        "w": 3.37,
+        "d": 5.55,
+        "h": 0.01
+      },
+      "materials": [
+        "m_lsp_markings"
+      ]
+    },
+    "roadmark_r": {
+      "category": "prop",
+      "size": {
+        "w": 2.94,
+        "d": 5.55,
+        "h": 0.01
+      },
+      "materials": [
+        "m_lsp_markings"
+      ]
+    },
+    "rodin_ind_sub": {
+      "category": "building",
+      "size": {
+        "w": 5.56,
+        "d": 6,
+        "h": 2.52
+      },
+      "materials": [
+        "m_rodin_ind_sub_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "rodin_ind_shed": {
+      "category": "building",
+      "size": {
+        "w": 10.08,
+        "d": 11.46,
+        "h": 6
+      },
+      "materials": [
+        "m_rodin_ind_shed_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "rodin_ind_shop": {
+      "category": "building",
+      "size": {
+        "w": 10.93,
+        "d": 11,
+        "h": 5.3
+      },
+      "materials": [
+        "m_rodin_ind_shop_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "rodin_ind_tank": {
+      "category": "building",
+      "size": {
+        "w": 10,
+        "d": 6.33,
+        "h": 5.86
+      },
+      "materials": [
+        "m_rodin_ind_tank_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "rodin_lab_pod": {
+      "category": "building",
+      "size": {
+        "w": 9,
+        "d": 9,
+        "h": 6.95
+      },
+      "materials": [
+        "m_rodin_lab_pod_albedo"
+      ],
+      "zones": [
+        "research"
+      ]
+    },
+    "rodin_lab_data": {
+      "category": "building",
+      "size": {
+        "w": 11,
+        "d": 8.04,
+        "h": 5.84
+      },
+      "materials": [
+        "m_rodin_lab_data_albedo"
+      ],
+      "zones": [
+        "research"
+      ]
+    },
+    "rodin_lab_green": {
+      "category": "building",
+      "size": {
+        "w": 6.32,
+        "d": 8,
+        "h": 5.01
+      },
+      "materials": [
+        "m_rodin_lab_green_albedo"
+      ],
+      "zones": [
+        "research"
+      ]
+    },
+    "rodin_lab_sensor": {
+      "category": "building",
+      "size": {
+        "w": 6.88,
+        "d": 5.38,
+        "h": 5.5
+      },
+      "materials": [
+        "m_rodin_lab_sensor_albedo"
+      ],
+      "zones": [
+        "research"
+      ]
+    },
+    "rodin_com_shop2": {
+      "category": "building",
+      "size": {
+        "w": 15.97,
+        "d": 14.91,
+        "h": 12.59
+      },
+      "materials": [
+        "m_rodin_com_shop2_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "rodin_com_strip": {
+      "category": "building",
+      "size": {
+        "w": 18,
+        "d": 7.24,
+        "h": 4.43
+      },
+      "materials": [
+        "m_rodin_com_strip_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "rodin_com_corner": {
+      "category": "building",
+      "size": {
+        "w": 13,
+        "d": 10.41,
+        "h": 9.95
+      },
+      "materials": [
+        "m_rodin_com_corner_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "tree_oak_a": {
+      "category": "tree",
+      "size": {
+        "w": 10.03,
+        "d": 9.81,
+        "h": 16.67
+      },
+      "materials": [
+        "m_tree_oak_a_branch",
+        "m_tree_oak_a_oak",
+        "m_tree_oak_a_bark"
+      ]
+    },
+    "tree_oak_b": {
+      "category": "tree",
+      "size": {
+        "w": 21.63,
+        "d": 22.16,
+        "h": 24.69
+      },
+      "materials": [
+        "m_tree_oak_b_branch",
+        "m_tree_oak_b_branch_1",
+        "m_tree_oak_b_bark",
+        "m_tree_oak_b_oak"
+      ]
+    },
+    "tree_fir_a": {
+      "category": "tree",
+      "size": {
+        "w": 3.08,
+        "d": 3.59,
+        "h": 4.93
+      },
+      "materials": [
+        "m_tree_fir_a_fir1"
+      ]
+    },
+    "tree_fir_b": {
+      "category": "tree",
+      "size": {
+        "w": 6.8,
+        "d": 6.52,
+        "h": 11.09
+      },
+      "materials": [
+        "m_tree_fir_b_fir1"
+      ]
+    },
+    "bush_flora_a": {
+      "category": "tree",
+      "size": {
+        "w": 4.42,
+        "d": 4.73,
+        "h": 4.12
+      },
+      "materials": [
+        "m_bush_flora_a_leaf1"
+      ]
+    },
+    "bush_flora_b": {
+      "category": "tree",
+      "size": {
+        "w": 8.34,
+        "d": 8.18,
+        "h": 8.7
+      },
+      "materials": [
+        "m_bush_flora_b_branch",
+        "m_bush_flora_b_leaf1"
+      ]
+    },
+    "tree_park_a": {
+      "category": "tree",
+      "size": {
+        "w": 5.46,
+        "d": 5.51,
+        "h": 11.09
+      },
+      "materials": [
+        "m_tree_park_a_tree1_mt1",
+        "m_tree_park_a_tree1_mt2"
+      ]
+    },
+    "tree_laxer_a": {
+      "category": "tree",
+      "size": {
+        "w": 13.73,
+        "d": 14.63,
+        "h": 15.03
+      },
+      "materials": [
+        "m_tree_laxer_a_none_ast3_png",
+        "m_tree_laxer_a_none_bark_wh_png"
+      ]
+    },
+    "tree_pine_a": {
+      "category": "tree",
+      "size": {
+        "w": 10.1,
+        "d": 10.21,
+        "h": 19.47
+      },
+      "materials": [
+        "m_tree_pine_a_leaf",
+        "m_tree_pine_a_bark"
+      ]
+    },
+    "sky_01": {
+      "category": "tower",
+      "size": {
+        "w": 20.8,
+        "d": 16.98,
+        "h": 70.93
+      },
+      "materials": [
+        "m_sky_set1"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_02": {
+      "category": "tower",
+      "size": {
+        "w": 19.04,
+        "d": 18.36,
+        "h": 76.78
+      },
+      "materials": [
+        "m_sky_set1"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_03": {
+      "category": "tower",
+      "size": {
+        "w": 27.02,
+        "d": 44.23,
+        "h": 90.29
+      },
+      "materials": [
+        "m_sky_set1"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_04": {
+      "category": "tower",
+      "size": {
+        "w": 48.26,
+        "d": 25.55,
+        "h": 196
+      },
+      "materials": [
+        "m_sky_set1"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_05": {
+      "category": "tower",
+      "size": {
+        "w": 46.69,
+        "d": 46.95,
+        "h": 149.68
+      },
+      "materials": [
+        "m_sky_set1"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_06": {
+      "category": "tower",
+      "size": {
+        "w": 44.69,
+        "d": 34.87,
+        "h": 213.89
+      },
+      "materials": [
+        "m_sky_set1"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_07": {
+      "category": "tower",
+      "size": {
+        "w": 34.17,
+        "d": 17.42,
+        "h": 111.02
+      },
+      "materials": [
+        "m_sky_set1"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_08": {
+      "category": "tower",
+      "size": {
+        "w": 34.42,
+        "d": 24.09,
+        "h": 93.75
+      },
+      "materials": [
+        "m_sky_set1"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_09": {
+      "category": "tower",
+      "size": {
+        "w": 36.86,
+        "d": 19.53,
+        "h": 118.24
+      },
+      "materials": [
+        "m_sky_set1"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_10": {
+      "category": "tower",
+      "size": {
+        "w": 22.61,
+        "d": 16.03,
+        "h": 71.78
+      },
+      "materials": [
+        "m_sky_set1"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_11": {
+      "category": "tower",
+      "size": {
+        "w": 46.73,
+        "d": 33.04,
+        "h": 226.12
+      },
+      "materials": [
+        "m_sky_set2"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_12": {
+      "category": "tower",
+      "size": {
+        "w": 37.01,
+        "d": 30.11,
+        "h": 140.89
+      },
+      "materials": [
+        "m_sky_set2"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_13": {
+      "category": "tower",
+      "size": {
+        "w": 32.21,
+        "d": 38.04,
+        "h": 140.54
+      },
+      "materials": [
+        "m_sky_set2"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_14": {
+      "category": "tower",
+      "size": {
+        "w": 37.32,
+        "d": 31.63,
+        "h": 117.26
+      },
+      "materials": [
+        "m_sky_set2"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_15": {
+      "category": "tower",
+      "size": {
+        "w": 64.79,
+        "d": 36.77,
+        "h": 151.42
+      },
+      "materials": [
+        "m_sky_set2"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_16": {
+      "category": "tower",
+      "size": {
+        "w": 32.67,
+        "d": 31.5,
+        "h": 220.06
+      },
+      "materials": [
+        "m_sky_set2"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_17": {
+      "category": "tower",
+      "size": {
+        "w": 38.74,
+        "d": 28.55,
+        "h": 107.79
+      },
+      "materials": [
+        "m_sky_set2"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_18": {
+      "category": "tower",
+      "size": {
+        "w": 28.2,
+        "d": 26.73,
+        "h": 111.12
+      },
+      "materials": [
+        "m_sky_set2"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_19": {
+      "category": "tower",
+      "size": {
+        "w": 32.02,
+        "d": 30.54,
+        "h": 74.83
+      },
+      "materials": [
+        "m_sky_set2"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_20": {
+      "category": "tower",
+      "size": {
+        "w": 51.15,
+        "d": 49.32,
+        "h": 157.53
+      },
+      "materials": [
+        "m_sky_set3"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_21": {
+      "category": "tower",
+      "size": {
+        "w": 39,
+        "d": 37.49,
+        "h": 165.84
+      },
+      "materials": [
+        "m_sky_set3"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_22": {
+      "category": "tower",
+      "size": {
+        "w": 30.67,
+        "d": 29.57,
+        "h": 105.56
+      },
+      "materials": [
+        "m_sky_set3"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_23": {
+      "category": "tower",
+      "size": {
+        "w": 43.97,
+        "d": 29.57,
+        "h": 118.47
+      },
+      "materials": [
+        "m_sky_set3"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_24": {
+      "category": "tower",
+      "size": {
+        "w": 61.38,
+        "d": 29.57,
+        "h": 106.29
+      },
+      "materials": [
+        "m_sky_set3"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_25": {
+      "category": "tower",
+      "size": {
+        "w": 30.67,
+        "d": 29.61,
+        "h": 75.62
+      },
+      "materials": [
+        "m_sky_set4"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_26": {
+      "category": "tower",
+      "size": {
+        "w": 35.15,
+        "d": 34.02,
+        "h": 117.14
+      },
+      "materials": [
+        "m_sky_set4"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_27": {
+      "category": "tower",
+      "size": {
+        "w": 43.97,
+        "d": 29.61,
+        "h": 96.51
+      },
+      "materials": [
+        "m_sky_set4"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_28": {
+      "category": "tower",
+      "size": {
+        "w": 61.38,
+        "d": 29.57,
+        "h": 111.74
+      },
+      "materials": [
+        "m_sky_set4"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "sky_29": {
+      "category": "tower",
+      "size": {
+        "w": 51.15,
+        "d": 49.32,
+        "h": 163.71
+      },
+      "materials": [
+        "m_sky_set4"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "hq_res_a": {
+      "category": "building",
+      "size": {
+        "w": 28.29,
+        "d": 17.07,
+        "h": 20.73
+      },
+      "materials": [
+        "m_hq_res_a"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "hq_res_b": {
+      "category": "building",
+      "size": {
+        "w": 20.76,
+        "d": 17.07,
+        "h": 20.73
+      },
+      "materials": [
+        "m_hq_res_b"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "hq_res_c": {
+      "category": "building",
+      "size": {
+        "w": 28.33,
+        "d": 17.07,
+        "h": 20.73
+      },
+      "materials": [
+        "m_hq_res_c"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "hq_res_d": {
+      "category": "building",
+      "size": {
+        "w": 20.78,
+        "d": 17.67,
+        "h": 17.19
+      },
+      "materials": [
+        "m_hq_res_d"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "hq_res_e": {
+      "category": "building",
+      "size": {
+        "w": 21.04,
+        "d": 17.67,
+        "h": 19.12
+      },
+      "materials": [
+        "m_hq_res_e"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "hq_res_f": {
+      "category": "building",
+      "size": {
+        "w": 21.04,
+        "d": 17.67,
+        "h": 19.12
+      },
+      "materials": [
+        "m_hq_res_f"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "hq_res_g": {
+      "category": "building",
+      "size": {
+        "w": 20.83,
+        "d": 17.67,
+        "h": 11.09
+      },
+      "materials": [
+        "m_hq_res_g"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "hq_res_h": {
+      "category": "building",
+      "size": {
+        "w": 36.78,
+        "d": 31.24,
+        "h": 20.73
+      },
+      "materials": [
+        "m_hq_res_h"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "hq_res_i": {
+      "category": "building",
+      "size": {
+        "w": 62.44,
+        "d": 31.32,
+        "h": 20.73
+      },
+      "materials": [
+        "m_hq_res_a"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "hy_res_a1": {
+      "category": "building",
+      "size": {
+        "w": 16.97,
+        "d": 13.06,
+        "h": 13
+      },
+      "materials": [
+        "m_hy_res_a1_albedo"
+      ]
+    },
+    "hy_res_a3": {
+      "category": "building",
+      "size": {
+        "w": 30.97,
+        "d": 17.95,
+        "h": 19
+      },
+      "materials": [
+        "m_hy_res_a3_albedo"
+      ]
+    },
+    "tp_apt_a": {
+      "category": "building",
+      "size": {
+        "w": 17.91,
+        "d": 21.6,
+        "h": 24.15
+      },
+      "materials": [
+        "m_tp_apt_a_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "tp_sub_c": {
+      "category": "building",
+      "size": {
+        "w": 11.14,
+        "d": 8.83,
+        "h": 7
+      },
+      "materials": [
+        "m_tp_sub_c_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "tp_sub_e": {
+      "category": "building",
+      "size": {
+        "w": 5.11,
+        "d": 5.93,
+        "h": 6
+      },
+      "materials": [
+        "m_tp_sub_e_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "tp_mil_c": {
+      "category": "building",
+      "size": {
+        "w": 17.49,
+        "d": 22.63,
+        "h": 12
+      },
+      "materials": [
+        "m_tp_mil_c_albedo"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "tp_lab_r7": {
+      "category": "building",
+      "size": {
+        "w": 6.36,
+        "d": 11.73,
+        "h": 7
+      },
+      "materials": [
+        "m_tp_lab_r7_albedo"
+      ],
+      "zones": [
+        "research"
+      ]
+    },
+    "tp_sub_d": {
+      "category": "building",
+      "size": {
+        "w": 12.13,
+        "d": 10.71,
+        "h": 8
+      },
+      "materials": [
+        "m_tp_sub_d_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "tp_sub_f2": {
+      "category": "building",
+      "size": {
+        "w": 5.79,
+        "d": 9.28,
+        "h": 5.5
+      },
+      "materials": [
+        "m_tp_sub_f2_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "tp_sub_g2": {
+      "category": "building",
+      "size": {
+        "w": 17.1,
+        "d": 19.2,
+        "h": 5.97
+      },
+      "materials": [
+        "m_tp_sub_g2_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "tp_apt_duo": {
+      "category": "building",
+      "size": {
+        "w": 19.84,
+        "d": 15.15,
+        "h": 20
+      },
+      "materials": [
+        "m_tp_apt_duo_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "tp_apt_small_a": {
+      "category": "building",
+      "size": {
+        "w": 9.26,
+        "d": 15.22,
+        "h": 12
+      },
+      "materials": [
+        "m_tp_apt_small_a_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "tp_apt_small_b": {
+      "category": "building",
+      "size": {
+        "w": 9.04,
+        "d": 14.95,
+        "h": 11.5
+      },
+      "materials": [
+        "m_tp_apt_small_b_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "tp_apt_small_c": {
+      "category": "building",
+      "size": {
+        "w": 21.6,
+        "d": 19.15,
+        "h": 9.93
+      },
+      "materials": [
+        "m_tp_apt_small_c_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "tp_com_c8": {
+      "category": "building",
+      "size": {
+        "w": 6.57,
+        "d": 6.57,
+        "h": 6
+      },
+      "materials": [
+        "m_tp_com_c8_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "tp_com_strip": {
+      "category": "building",
+      "size": {
+        "w": 17.28,
+        "d": 6.66,
+        "h": 4.43
+      },
+      "materials": [
+        "m_tp_com_strip_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "tp_com_off_a": {
+      "category": "building",
+      "size": {
+        "w": 17.69,
+        "d": 19.93,
+        "h": 22
+      },
+      "materials": [
+        "m_tp_com_off_a_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "tp_ind_i1": {
+      "category": "building",
+      "size": {
+        "w": 34.69,
+        "d": 17.04,
+        "h": 9.3
+      },
+      "materials": [
+        "m_tp_ind_i1_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "tp_ind_i2": {
+      "category": "building",
+      "size": {
+        "w": 30,
+        "d": 14.97,
+        "h": 10.98
+      },
+      "materials": [
+        "m_tp_ind_i2_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "tp_ind_i3": {
+      "category": "building",
+      "size": {
+        "w": 30,
+        "d": 29.53,
+        "h": 21.9
+      },
+      "materials": [
+        "m_tp_ind_i3_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "tp_ind_i5": {
+      "category": "building",
+      "size": {
+        "w": 13.32,
+        "d": 12.74,
+        "h": 8
+      },
+      "materials": [
+        "m_tp_ind_i5_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "tp_ind_i7": {
+      "category": "building",
+      "size": {
+        "w": 13.55,
+        "d": 16.3,
+        "h": 14
+      },
+      "materials": [
+        "m_tp_ind_i7_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "tp_mil_a": {
+      "category": "building",
+      "size": {
+        "w": 19.81,
+        "d": 7.79,
+        "h": 5
+      },
+      "materials": [
+        "m_tp_mil_a_albedo"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "tp_mil_e": {
+      "category": "building",
+      "size": {
+        "w": 9.44,
+        "d": 21.43,
+        "h": 6.5
+      },
+      "materials": [
+        "m_tp_mil_e_albedo"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "tp_mil_f": {
+      "category": "building",
+      "size": {
+        "w": 14.27,
+        "d": 10.53,
+        "h": 5
+      },
+      "materials": [
+        "m_tp_mil_f_albedo"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "tp_lab_pod": {
+      "category": "building",
+      "size": {
+        "w": 7.02,
+        "d": 7.02,
+        "h": 5.98
+      },
+      "materials": [
+        "m_tp_lab_pod_albedo"
+      ],
+      "zones": [
+        "research"
+      ]
+    },
+    "hy_res_a2": {
+      "category": "building",
+      "size": {
+        "w": 21.44,
+        "d": 21.5,
+        "h": 14.09
+      },
+      "materials": [
+        "m_hy_res_a2_albedo"
+      ]
+    },
+    "hy_res_a6": {
+      "category": "building",
+      "size": {
+        "w": 30.6,
+        "d": 27.41,
+        "h": 12.91
+      },
+      "materials": [
+        "m_hy_res_a6_albedo"
+      ]
+    },
+    "hy_res_b1": {
+      "category": "building",
+      "size": {
+        "w": 14,
+        "d": 12.69,
+        "h": 14
+      },
+      "materials": [
+        "m_hy_res_b1_albedo"
+      ]
+    },
+    "hy_res_b2": {
+      "category": "building",
+      "size": {
+        "w": 21.33,
+        "d": 14.56,
+        "h": 19
+      },
+      "materials": [
+        "m_hy_res_b2_albedo"
+      ]
+    },
+    "hy_res_b6": {
+      "category": "building",
+      "size": {
+        "w": 25.5,
+        "d": 12.35,
+        "h": 8.77
+      },
+      "materials": [
+        "m_hy_res_b6_albedo"
+      ]
+    },
+    "hy_sub_a": {
+      "category": "building",
+      "size": {
+        "w": 14.08,
+        "d": 9.75,
+        "h": 5.5
+      },
+      "materials": [
+        "m_hy_sub_a_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "tp_comres_hall": {
+      "category": "building",
+      "size": {
+        "w": 24.64,
+        "d": 16.38,
+        "h": 10
+      },
+      "materials": [
+        "m_tp_comres_hall_albedo"
+      ],
+      "zones": [
+        "commercial",
+        "research"
+      ]
+    },
+    "tp_datacenter": {
+      "category": "building",
+      "size": {
+        "w": 11.4,
+        "d": 14.79,
+        "h": 10
+      },
+      "materials": [
+        "m_tp_datacenter_albedo"
+      ],
+      "zones": [
+        "research"
+      ]
+    },
+    "tp_ind_tanks": {
+      "category": "building",
+      "size": {
+        "w": 24,
+        "d": 16.43,
+        "h": 8.99
+      },
+      "materials": [
+        "m_tp_ind_tanks_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "tp_powerplant": {
+      "category": "building",
+      "size": {
+        "w": 11.21,
+        "d": 25.71,
+        "h": 16
+      },
+      "materials": [
+        "m_tp_powerplant_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "tp_mil_radar": {
+      "category": "building",
+      "size": {
+        "w": 8.9,
+        "d": 7.58,
+        "h": 9
+      },
+      "materials": [
+        "m_tp_mil_radar_albedo"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "tp_mil_tower": {
+      "category": "building",
+      "size": {
+        "w": 11.93,
+        "d": 5.65,
+        "h": 12
+      },
+      "materials": [
+        "m_tp_mil_tower_albedo"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "ct_car_a": {
+      "category": "prop",
+      "size": {
+        "w": 2.05,
+        "d": 4.79,
+        "h": 1.52
+      },
+      "materials": [
+        "m_ct_car_a"
+      ]
+    },
+    "ct_car_b": {
+      "category": "prop",
+      "size": {
+        "w": 2.05,
+        "d": 4.79,
+        "h": 1.52
+      },
+      "materials": [
+        "m_ct_car_b"
+      ]
+    },
+    "ct_car_c": {
+      "category": "prop",
+      "size": {
+        "w": 2.05,
+        "d": 4.79,
+        "h": 1.52
+      },
+      "materials": [
+        "m_ct_car_c"
+      ]
+    },
+    "ct_car_d": {
+      "category": "prop",
+      "size": {
+        "w": 2.05,
+        "d": 4.79,
+        "h": 1.52
+      },
+      "materials": [
+        "m_ct_car_d"
+      ]
+    },
+    "ct_suv_a": {
+      "category": "prop",
+      "size": {
+        "w": 2.24,
+        "d": 4.98,
+        "h": 2.16
+      },
+      "materials": [
+        "m_ct_suv_a"
+      ]
+    },
+    "ct_suv_b": {
+      "category": "prop",
+      "size": {
+        "w": 2.24,
+        "d": 4.98,
+        "h": 2.16
+      },
+      "materials": [
+        "m_ct_suv_b"
+      ]
+    },
+    "ct_van_a": {
+      "category": "prop",
+      "size": {
+        "w": 2.12,
+        "d": 5.06,
+        "h": 1.93
+      },
+      "materials": [
+        "m_ct_van_a"
+      ]
+    },
+    "ct_van_b": {
+      "category": "prop",
+      "size": {
+        "w": 2.12,
+        "d": 5.06,
+        "h": 1.93
+      },
+      "materials": [
+        "m_ct_van_b"
+      ]
+    },
+    "ct_truck_a": {
+      "category": "prop",
+      "size": {
+        "w": 2.25,
+        "d": 7.1,
+        "h": 2.23
+      },
+      "materials": [
+        "m_ct_truck_a"
+      ]
+    },
+    "ct_truck_b": {
+      "category": "prop",
+      "size": {
+        "w": 2.25,
+        "d": 7.1,
+        "h": 2.23
+      },
+      "materials": [
+        "m_ct_truck_b"
+      ]
+    },
+    "ct_truck_c": {
+      "category": "prop",
+      "size": {
+        "w": 2.49,
+        "d": 10.65,
+        "h": 2.97
+      },
+      "materials": [
+        "m_ct_truck_c"
+      ]
+    },
+    "mb_barracks": {
+      "category": "building",
+      "size": {
+        "w": 9.42,
+        "d": 21.14,
+        "h": 4.06
+      },
+      "materials": [
+        "m_mb_wall",
+        "m_mb_details",
+        "m_mb_windows"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "mb_barrack_single": {
+      "category": "building",
+      "size": {
+        "w": 9.42,
+        "d": 9.14,
+        "h": 4.06
+      },
+      "materials": [
+        "m_mb_wall",
+        "m_mb_details",
+        "m_mb_windows"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "mb_hq": {
+      "category": "building",
+      "size": {
+        "w": 17.47,
+        "d": 15.33,
+        "h": 6.78
+      },
+      "materials": [
+        "m_mb_wall",
+        "m_mb_details",
+        "m_mb_windows"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "mb_guard_tower": {
+      "category": "building",
+      "size": {
+        "w": 9.53,
+        "d": 9.46,
+        "h": 8.4
+      },
+      "materials": [
+        "m_mb_details",
+        "m_mb_wall"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "mb_tent_a": {
+      "category": "building",
+      "size": {
+        "w": 15.54,
+        "d": 16.43,
+        "h": 3.45
+      },
+      "materials": [
+        "m_mb_tent_net",
+        "m_mb_tent_details",
+        "m_mb_tent_cloth"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "mb_tent_b": {
+      "category": "building",
+      "size": {
+        "w": 14.8,
+        "d": 14.51,
+        "h": 4.34
+      },
+      "materials": [
+        "m_mb_tent2_cloth",
+        "m_mb_tent_net",
+        "m_mb_tent2_details"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "mb_container": {
+      "category": "building",
+      "size": {
+        "w": 6.07,
+        "d": 2.57,
+        "h": 2.56
+      },
+      "materials": [
+        "m_mb_container_steel",
+        "m_mb_container"
+      ],
+      "zones": [
+        "military",
+        "industrial"
+      ]
+    },
+    "mb_barrier_wall": {
+      "category": "prop",
+      "size": {
+        "w": 8.59,
+        "d": 4.53,
+        "h": 4.66
+      },
+      "materials": [
+        "m_mb_barrier"
+      ]
+    },
+    "mb_concrete_barrier": {
+      "category": "prop",
+      "size": {
+        "w": 0.91,
+        "d": 2.25,
+        "h": 1.42
+      },
+      "materials": [
+        "m_mb_concrete"
+      ]
+    },
+    "mb_sandbag_wall": {
+      "category": "prop",
+      "size": {
+        "w": 2.09,
+        "d": 0.41,
+        "h": 0.8
+      },
+      "materials": [
+        "m_mb_sandbag"
+      ]
+    },
+    "mb_sandbag_corner": {
+      "category": "prop",
+      "size": {
+        "w": 1.23,
+        "d": 1.4,
+        "h": 0.8
+      },
+      "materials": [
+        "m_mb_sandbag"
+      ]
+    },
+    "mb_floodlight": {
+      "category": "prop",
+      "size": {
+        "w": 1.18,
+        "d": 4.08,
+        "h": 11
+      },
+      "materials": [
+        "m_mb_floodlight",
+        "m_mb_floodlight_wires"
+      ]
+    },
+    "mb_flagpole": {
+      "category": "prop",
+      "size": {
+        "w": 1.69,
+        "d": 0.2,
+        "h": 11.32
+      },
+      "materials": [
+        "m_mb_flag",
+        "m_mb_flagpole"
+      ]
+    },
+    "mb_crate_large": {
+      "category": "prop",
+      "size": {
+        "w": 0.8,
+        "d": 1.2,
+        "h": 0.76
+      },
+      "materials": [
+        "m_mb_crate_large"
+      ]
+    },
+    "mb_crate": {
+      "category": "prop",
+      "size": {
+        "w": 0.57,
+        "d": 1.5,
+        "h": 0.27
+      },
+      "materials": [
+        "m_mb_crate"
+      ]
+    },
+    "mb_cable_spool": {
+      "category": "prop",
+      "size": {
+        "w": 2,
+        "d": 2,
+        "h": 1.2
+      },
+      "materials": [
+        "m_mb_spool"
+      ]
+    },
+    "mb_water_barrel": {
+      "category": "prop",
+      "size": {
+        "w": 0.66,
+        "d": 0.66,
+        "h": 1.06
+      },
+      "materials": [
+        "m_mb_water_barrel_lid",
+        "m_mb_water_barrel"
+      ]
+    },
+    "mb_radar": {
+      "category": "prop",
+      "size": {
+        "w": 2.99,
+        "d": 1.81,
+        "h": 5
+      },
+      "materials": [
+        "m_mb_radar",
+        "m_mb_radar_support"
+      ]
+    },
+    "mb_bar_gate": {
+      "category": "prop",
+      "size": {
+        "w": 8.91,
+        "d": 0.31,
+        "h": 1.92
+      },
+      "materials": [
+        "m_mb_bargate"
+      ]
+    },
+    "mb_portaloo": {
+      "category": "prop",
+      "size": {
+        "w": 1.22,
+        "d": 1.1,
+        "h": 2.5
+      },
+      "materials": [
+        "m_mb_portaloo"
+      ]
+    },
+    "rp_hangar_a": {
+      "category": "building",
+      "size": {
+        "w": 9.67,
+        "d": 7.2,
+        "h": 5.03
+      },
+      "materials": [
+        "m_rp_hangar_a"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "rp_hangar_b": {
+      "category": "building",
+      "size": {
+        "w": 10.86,
+        "d": 13.5,
+        "h": 9.36
+      },
+      "materials": [
+        "m_rp_hangar_b"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "rp_hangar_c": {
+      "category": "building",
+      "size": {
+        "w": 11.67,
+        "d": 22.62,
+        "h": 12.88
+      },
+      "materials": [
+        "m_rp_hangar_c"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "rp_hangar_d": {
+      "category": "building",
+      "size": {
+        "w": 30.58,
+        "d": 16.84,
+        "h": 10.55
+      },
+      "materials": [
+        "m_rp_hangar_d"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "rp_oil_tank_a": {
+      "category": "building",
+      "size": {
+        "w": 10.65,
+        "d": 10.65,
+        "h": 6.42
+      },
+      "materials": [
+        "m_rp_oil_tank_a"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "rp_oil_tank_b": {
+      "category": "building",
+      "size": {
+        "w": 1.74,
+        "d": 1.71,
+        "h": 5.18
+      },
+      "materials": [
+        "m_rp_oil_tank_b"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "rp_container": {
+      "category": "prop",
+      "size": {
+        "w": 8,
+        "d": 3,
+        "h": 3
+      },
+      "materials": [
+        "m_rp_container"
+      ]
+    },
+    "rp_dumpster": {
+      "category": "prop",
+      "size": {
+        "w": 4.94,
+        "d": 1.76,
+        "h": 1.76
+      },
+      "materials": [
+        "m_rp_dumpster"
+      ]
+    },
+    "rp_barrel": {
+      "category": "prop",
+      "size": {
+        "w": 0.58,
+        "d": 0.57,
+        "h": 1.03
+      },
+      "materials": [
+        "m_rp_barrel"
+      ]
+    },
+    "rp_wood_box": {
+      "category": "prop",
+      "size": {
+        "w": 1.09,
+        "d": 1.79,
+        "h": 0.67
+      },
+      "materials": [
+        "m_rp_wood_box"
+      ]
+    },
+    "rp_generator": {
+      "category": "prop",
+      "size": {
+        "w": 3.65,
+        "d": 1.31,
+        "h": 1.75
+      },
+      "materials": [
+        "m_rp_generator"
+      ]
+    },
+    "rp_electric_box": {
+      "category": "prop",
+      "size": {
+        "w": 1.21,
+        "d": 0.4,
+        "h": 1.44
+      },
+      "materials": [
+        "m_rp_electric_box"
+      ]
+    },
+    "rp_conditioner": {
+      "category": "prop",
+      "size": {
+        "w": 1.15,
+        "d": 0.61,
+        "h": 1.55
+      },
+      "materials": [
+        "m_rp_conditioner"
+      ]
+    },
+    "rp_pallet": {
+      "category": "prop",
+      "size": {
+        "w": 2.21,
+        "d": 1.77,
+        "h": 1.08
+      },
+      "materials": [
+        "m_rp_pallet"
+      ]
+    },
+    "rp_pipes": {
+      "category": "prop",
+      "size": {
+        "w": 1.77,
+        "d": 13.75,
+        "h": 5.15
+      },
+      "materials": [
+        "m_rp_pipes"
+      ]
+    },
+    "rp_fence_wall": {
+      "category": "prop",
+      "size": {
+        "w": 0.72,
+        "d": 9.37,
+        "h": 3.3
+      },
+      "materials": [
+        "m_rp_fence"
+      ]
+    },
+    "rp_road_block": {
+      "category": "prop",
+      "size": {
+        "w": 2.35,
+        "d": 0.89,
+        "h": 1.07
+      },
+      "materials": [
+        "m_rp_road_block"
+      ]
+    },
+    "constr_cell": {
+      "category": "prop",
+      "size": {
+        "w": 20,
+        "d": 20,
+        "h": 10
+      },
+      "materials": [
+        "m_constr_parts"
+      ]
+    },
+    "constr_cell_top": {
+      "category": "prop",
+      "size": {
+        "w": 20,
+        "d": 20,
+        "h": 9
+      },
+      "materials": [
+        "m_constr_parts"
+      ]
+    },
+    "constr_crane_base": {
+      "category": "prop",
+      "size": {
+        "w": 7.19,
+        "d": 8.3,
+        "h": 11.68
+      },
+      "materials": [
+        "m_constr_crane"
+      ]
+    },
+    "constr_crane_mid": {
+      "category": "prop",
+      "size": {
+        "w": 1.82,
+        "d": 1.82,
+        "h": 5.6
+      },
+      "materials": [
+        "m_constr_crane"
+      ]
+    },
+    "constr_crane_top": {
+      "category": "prop",
+      "size": {
+        "w": 3.43,
+        "d": 33.39,
+        "h": 195.68
+      },
+      "materials": [
+        "m_constr_crane"
+      ]
+    },
+    "tp_ind_fact": {
+      "category": "building",
+      "size": {
+        "w": 29.94,
+        "d": 24.9,
+        "h": 18.57
+      },
+      "materials": [
+        "m_tp_ind_fact_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "tp_ind_wh": {
+      "category": "building",
+      "size": {
+        "w": 16.91,
+        "d": 25.95,
+        "h": 10.51
+      },
+      "materials": [
+        "m_tp_ind_wh_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "tp_mil_block": {
+      "category": "building",
+      "size": {
+        "w": 15.97,
+        "d": 12.72,
+        "h": 8.47
+      },
+      "materials": [
+        "m_tp_mil_block_albedo"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "tp_apt_modern": {
+      "category": "building",
+      "size": {
+        "w": 18.89,
+        "d": 14.58,
+        "h": 23.95
+      },
+      "materials": [
+        "m_tp_apt_modern_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "tp_com_off_b": {
+      "category": "building",
+      "size": {
+        "w": 21.61,
+        "d": 16.11,
+        "h": 21.96
+      },
+      "materials": [
+        "m_tp_com_off_b_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "tp_lab_station": {
+      "category": "building",
+      "size": {
+        "w": 15.43,
+        "d": 17.96,
+        "h": 9.18
+      },
+      "materials": [
+        "m_tp_lab_station_albedo"
+      ],
+      "zones": [
+        "research"
+      ]
+    },
+    "tp_sub_h": {
+      "category": "building",
+      "size": {
+        "w": 11,
+        "d": 10.91,
+        "h": 7.31
+      },
+      "materials": [
+        "m_tp_sub_h_albedo"
+      ],
+      "zones": [
+        "residential"
+      ]
+    },
+    "tp_mil_green": {
+      "category": "building",
+      "size": {
+        "w": 21.87,
+        "d": 21.96,
+        "h": 11.04
+      },
+      "materials": [
+        "m_tp_mil_green_albedo"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "tp_mil_depot": {
+      "category": "building",
+      "size": {
+        "w": 17.05,
+        "d": 17.96,
+        "h": 10.16
+      },
+      "materials": [
+        "m_tp_mil_depot_albedo"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "wl_mil_barracks_m": {
+      "category": "building",
+      "size": {
+        "w": 16.55,
+        "d": 10.97,
+        "h": 4.93
+      },
+      "materials": [
+        "m_wl_mil_b"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "wl_mil_barracks_s": {
+      "category": "building",
+      "size": {
+        "w": 9.03,
+        "d": 8.77,
+        "h": 3.9
+      },
+      "materials": [
+        "m_wl_mil_a"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "wl_mil_tent_a": {
+      "category": "building",
+      "size": {
+        "w": 11.81,
+        "d": 11.79,
+        "h": 3.01
+      },
+      "materials": [
+        "m_wl_mil_a"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "wl_mil_tent_b": {
+      "category": "building",
+      "size": {
+        "w": 7.6,
+        "d": 14.51,
+        "h": 4.31
+      },
+      "materials": [
+        "m_wl_mil_a"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "wl_mil_tent_c": {
+      "category": "building",
+      "size": {
+        "w": 15.55,
+        "d": 16.42,
+        "h": 3.47
+      },
+      "materials": [
+        "m_wl_mil_a"
+      ],
+      "zones": [
+        "military"
+      ]
+    },
+    "tp_ind_barn_a": {
+      "category": "building",
+      "size": {
+        "w": 13.54,
+        "d": 13.97,
+        "h": 9.93
+      },
+      "materials": [
+        "m_tp_ind_barn_a_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "tp_ind_farm_a": {
+      "category": "building",
+      "size": {
+        "w": 21.96,
+        "d": 14.14,
+        "h": 8.72
+      },
+      "materials": [
+        "m_tp_ind_farm_a_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "tp_ind_farmland_a": {
+      "category": "building",
+      "size": {
+        "w": 19.55,
+        "d": 25.95,
+        "h": 10.51
+      },
+      "materials": [
+        "m_tp_ind_farmland_a_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "tp_ind_crops_a": {
+      "category": "building",
+      "size": {
+        "w": 27.95,
+        "d": 23.46,
+        "h": 7.93
+      },
+      "materials": [
+        "m_tp_ind_crops_a_albedo"
+      ],
+      "zones": [
+        "industrial"
+      ]
+    },
+    "tp_com_blue_a": {
+      "category": "building",
+      "size": {
+        "w": 25.95,
+        "d": 24.02,
+        "h": 23.61
+      },
+      "materials": [
+        "m_tp_com_blue_a_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "tp_com_mall_a": {
+      "category": "building",
+      "size": {
+        "w": 57.89,
+        "d": 31.61,
+        "h": 15.97
+      },
+      "materials": [
+        "m_tp_com_mall_a_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "tp_com_off_c": {
+      "category": "building",
+      "size": {
+        "w": 35.93,
+        "d": 20.88,
+        "h": 19.05
+      },
+      "materials": [
+        "m_tp_com_off_c_albedo"
+      ],
+      "zones": [
+        "commercial"
+      ]
+    },
+    "tp_mil_bunker_a": {
+      "category": "building",
+      "size": {
+        "w": 19.65,
+        "d": 19.96,
+        "h": 10.35
+      },
+      "materials": [
+        "m_tp_mil_bunker_a_albedo"
+      ],
+      "zones": [
+        "military"
+      ]
+    }
+  },
+  "materials": {
+    "m_atlas_b1": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_atlas_b1.jpg"
+    },
+    "m_atlaslow_b1": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_atlaslow_b1.jpg"
+    },
+    "m_benches_albedo": {
+      "color": [
+        0.8679,
+        0.8679,
+        0.8679
+      ],
+      "texture": "textures/m_benches_albedo.jpg"
+    },
+    "m_build2_albedo": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_build2_albedo.jpg"
+    },
+    "m_build4_albedo": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_build4_albedo.jpg"
+    },
+    "m_build_albedo": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_build_albedo.jpg"
+    },
+    "m_busstop": {
+      "texture": "textures/m_busstop.jpg"
+    },
+    "m_cbu_concrete_cbu_tower_a": {
+      "color": [
+        0.72,
+        0.7,
+        0.66
+      ]
+    },
+    "m_cbu_concrete_cbu_tower_b": {
+      "color": [
+        0.55,
+        0.52,
+        0.5
+      ]
+    },
+    "m_cbu_concrete_cbu_tower_c": {
+      "color": [
+        0.45,
+        0.47,
+        0.5
+      ]
+    },
+    "m_cbu_concrete_cbu_tower_d": {
+      "color": [
+        0.6,
+        0.55,
+        0.48
+      ]
+    },
+    "m_cbu_concrete_cbu_tower_e": {
+      "color": [
+        0.5,
+        0.5,
+        0.52
+      ]
+    },
+    "m_cbu_concrete_cbu_tower_f": {
+      "color": [
+        0.66,
+        0.63,
+        0.58
+      ]
+    },
+    "m_cbu_trim_dark": {
+      "color": [
+        0.16,
+        0.16,
+        0.17
+      ]
+    },
+    "m_cbu_win_build5_windows_albedo": {
+      "texture": "textures/m_cbu_win_build5_windows_albedo.jpg"
+    },
+    "m_cbu_win_buildex2_windows_albedo": {
+      "texture": "textures/m_cbu_win_buildex2_windows_albedo.jpg"
+    },
+    "m_cbu_win_buildex6_windows_albedo": {
+      "texture": "textures/m_cbu_win_buildex6_windows_albedo.jpg"
+    },
+    "m_cbu_win_buildex7_windows_albedo": {
+      "texture": "textures/m_cbu_win_buildex7_windows_albedo.jpg"
+    },
+    "m_cbu_win_buildex_windows2_albedo": {
+      "texture": "textures/m_cbu_win_buildex_windows2_albedo.jpg"
+    },
+    "m_cbu_win_buildex_windows_albedo": {
+      "texture": "textures/m_cbu_win_buildex_windows_albedo.jpg"
+    },
+    "m_foodcart_albedo": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_foodcart_albedo.jpg"
+    },
+    "m_material": {
+      "texture": "textures/m_material.jpg"
+    },
+    "m_metalstructures_albedo": {
+      "texture": "textures/m_metalstructures_albedo.jpg"
+    },
+    "m_plantbeds_albedo": {
+      "color": [
+        0.9245,
+        0.9245,
+        0.9245
+      ],
+      "texture": "textures/m_plantbeds_albedo.jpg"
+    },
+    "m_plantdisplayround": {
+      "texture": "textures/m_plantdisplayround.jpg"
+    },
+    "m_props_albedo": {
+      "texture": "textures/m_props_albedo.jpg"
+    },
+    "m_roofprops_albedo": {
+      "texture": "textures/m_roofprops_albedo.jpg"
+    },
+    "m_shopcovers_albedo": {
+      "texture": "textures/m_shopcovers_albedo.jpg"
+    },
+    "m_shops_albedo": {
+      "texture": "textures/m_shops_albedo.jpg"
+    },
+    "m_streetprops1_albedo": {
+      "color": [
+        0.8208,
+        0.8208,
+        0.8208
+      ],
+      "texture": "textures/m_streetprops1_albedo.jpg"
+    },
+    "m_trafficlights2_albedo": {
+      "texture": "textures/m_trafficlights2_albedo.jpg"
+    },
+    "m_tc3_bark": {
+      "color": [
+        0.36,
+        0.25,
+        0.16
+      ]
+    },
+    "m_tc3_leaf_0": {
+      "color": [
+        0.1213,
+        0.403,
+        0.0943
+      ]
+    },
+    "m_tc3_leaf_1": {
+      "color": [
+        0.1003,
+        0.354,
+        0.078
+      ]
+    },
+    "m_trashcan": {
+      "texture": "textures/m_trashcan.jpg"
+    },
+    "m_rodin_apt_a_albedo": {
+      "texture": "textures/m_rodin_apt_a_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_res_a1_albedo": {
+      "texture": "textures/m_rodin_res_a1_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_res_a3_albedo": {
+      "texture": "textures/m_rodin_res_a3_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_res_a4_albedo": {
+      "texture": "textures/m_rodin_res_a4_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_res_a5_albedo": {
+      "texture": "textures/m_rodin_res_a5_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_res_a6_albedo": {
+      "texture": "textures/m_rodin_res_a6_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_res_b1_albedo": {
+      "texture": "textures/m_rodin_res_b1_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_res_b2_albedo": {
+      "texture": "textures/m_rodin_res_b2_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_res_b3_albedo": {
+      "texture": "textures/m_rodin_res_b3_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_res_b4_albedo": {
+      "texture": "textures/m_rodin_res_b4_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_res_b5_albedo": {
+      "texture": "textures/m_rodin_res_b5_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_res_b6_albedo": {
+      "texture": "textures/m_rodin_res_b6_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_vesta_albedo": {
+      "texture": "textures/m_rodin_vesta_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_res_a2_albedo": {
+      "texture": "textures/m_rodin_res_a2_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_com_c1_albedo": {
+      "texture": "textures/m_rodin_com_c1_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_com_c2_albedo": {
+      "texture": "textures/m_rodin_com_c2_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_com_c3_albedo": {
+      "texture": "textures/m_rodin_com_c3_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_com_c4_albedo": {
+      "texture": "textures/m_rodin_com_c4_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_com_c5_albedo": {
+      "texture": "textures/m_rodin_com_c5_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_com_c6_albedo": {
+      "texture": "textures/m_rodin_com_c6_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_com_c7_albedo": {
+      "texture": "textures/m_rodin_com_c7_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_ind_i1_albedo": {
+      "texture": "textures/m_rodin_ind_i1_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_ind_i2_albedo": {
+      "texture": "textures/m_rodin_ind_i2_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_ind_i3_albedo": {
+      "texture": "textures/m_rodin_ind_i3_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_ind_i4_albedo": {
+      "texture": "textures/m_rodin_ind_i4_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_ind_i5_albedo": {
+      "texture": "textures/m_rodin_ind_i5_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_ind_i6_albedo": {
+      "texture": "textures/m_rodin_ind_i6_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_ind_i7_albedo": {
+      "texture": "textures/m_rodin_ind_i7_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_lab_r1_albedo": {
+      "texture": "textures/m_rodin_lab_r1_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_lab_r2_albedo": {
+      "texture": "textures/m_rodin_lab_r2_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_lab_r3_albedo": {
+      "texture": "textures/m_rodin_lab_r3_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_lab_r4_albedo": {
+      "texture": "textures/m_rodin_lab_r4_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_lab_r5_albedo": {
+      "texture": "textures/m_rodin_lab_r5_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_lab_r6_albedo": {
+      "texture": "textures/m_rodin_lab_r6_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_sub_a_albedo": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_sub_a_albedo.jpg"
+    },
+    "m_rodin_sub_b_albedo": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_sub_b_albedo.jpg"
+    },
+    "m_rodin_sub_c_albedo": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_sub_c_albedo.jpg"
+    },
+    "m_rodin_sub_d_albedo": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_sub_d_albedo.jpg"
+    },
+    "m_rodin_town_a_albedo": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_town_a_albedo.jpg"
+    },
+    "m_rodin_town_b_albedo": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_town_b_albedo.jpg"
+    },
+    "m_rodin_town_c_albedo": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_town_c_albedo.jpg"
+    },
+    "m_rodin_town_d_albedo": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_town_d_albedo.jpg"
+    },
+    "m_rodin_mil_a_albedo": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_mil_a_albedo.jpg"
+    },
+    "m_rodin_mil_b_albedo": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_mil_b_albedo.jpg"
+    },
+    "m_rodin_mil_c_albedo": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_mil_c_albedo.jpg"
+    },
+    "m_rodin_mil_d_albedo": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_mil_d_albedo.jpg"
+    },
+    "m_rodin_mil_e_albedo": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_mil_e_albedo.jpg"
+    },
+    "m_rodin_mil_f_albedo": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_mil_f_albedo.jpg"
+    },
+    "m_rodin_com_c10_albedo": {
+      "texture": "textures/m_rodin_com_c10_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_com_c11_albedo": {
+      "texture": "textures/m_rodin_com_c11_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_com_c8_albedo": {
+      "texture": "textures/m_rodin_com_c8_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_com_c9_albedo": {
+      "texture": "textures/m_rodin_com_c9_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_lab_r7_albedo": {
+      "texture": "textures/m_rodin_lab_r7_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_lab_r8_albedo": {
+      "texture": "textures/m_rodin_lab_r8_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_sub_e_albedo": {
+      "texture": "textures/m_rodin_sub_e_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_sub_f_albedo": {
+      "texture": "textures/m_rodin_sub_f_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_sub_g_albedo": {
+      "texture": "textures/m_rodin_sub_g_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_veg_cherry_bark": {
+      "texture": "textures/m_veg_cherry_bark.jpg"
+    },
+    "m_veg_cherry_leaf": {
+      "texture": "textures/m_veg_cherry_leaf.png",
+      "alphaTest": 0.3,
+      "doubleSide": true
+    },
+    "m_veg_med_bark": {
+      "texture": "textures/m_veg_med_bark.jpg"
+    },
+    "m_veg_med_leaf": {
+      "texture": "textures/m_veg_med_leaf.png",
+      "alphaTest": 0.3,
+      "doubleSide": true
+    },
+    "m_veg_garden": {
+      "texture": "textures/m_veg_garden.png",
+      "alphaTest": 0.3,
+      "doubleSide": true
+    },
+    "m_cbu_props1_albedo": {
+      "texture": "textures/m_cbu_props1_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_cbu_props2_albedo": {
+      "texture": "textures/m_cbu_props2_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_lsp_atlas": {
+      "texture": "textures/m_lsp_atlas.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_lsp_signs": {
+      "texture": "textures/m_lsp_signs.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_lsp_markings": {
+      "texture": "textures/m_lsp_markings.png",
+      "alphaTest": 0.5
+    },
+    "m_rodin_ind_sub_albedo": {
+      "texture": "textures/m_rodin_ind_sub_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_ind_shed_albedo": {
+      "texture": "textures/m_rodin_ind_shed_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_ind_shop_albedo": {
+      "texture": "textures/m_rodin_ind_shop_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_ind_tank_albedo": {
+      "texture": "textures/m_rodin_ind_tank_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_lab_pod_albedo": {
+      "texture": "textures/m_rodin_lab_pod_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_lab_data_albedo": {
+      "texture": "textures/m_rodin_lab_data_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_lab_green_albedo": {
+      "texture": "textures/m_rodin_lab_green_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_lab_sensor_albedo": {
+      "texture": "textures/m_rodin_lab_sensor_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_com_shop2_albedo": {
+      "texture": "textures/m_rodin_com_shop2_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_com_strip_albedo": {
+      "texture": "textures/m_rodin_com_strip_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rodin_com_corner_albedo": {
+      "texture": "textures/m_rodin_com_corner_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tree_oak_a_branch": {
+      "texture": "textures/flora_branch.png",
+      "alphaTest": 0.3,
+      "doubleSide": true
+    },
+    "m_tree_oak_a_oak": {
+      "texture": "textures/flora_oak.png",
+      "alphaTest": 0.3,
+      "doubleSide": true
+    },
+    "m_tree_oak_a_bark": {
+      "texture": "textures/flora_bark.jpg"
+    },
+    "m_tree_oak_b_branch": {
+      "texture": "textures/flora_branch.png",
+      "alphaTest": 0.3,
+      "doubleSide": true
+    },
+    "m_tree_oak_b_branch_1": {
+      "texture": "textures/flora_branch.png",
+      "alphaTest": 0.3,
+      "doubleSide": true
+    },
+    "m_tree_oak_b_bark": {
+      "texture": "textures/flora_bark.jpg"
+    },
+    "m_tree_oak_b_oak": {
+      "texture": "textures/flora_oak.png",
+      "alphaTest": 0.3,
+      "doubleSide": true
+    },
+    "m_tree_fir_a_fir1": {
+      "texture": "textures/flora_fir.png",
+      "alphaTest": 0.3,
+      "doubleSide": true
+    },
+    "m_tree_fir_b_fir1": {
+      "texture": "textures/flora_fir.png",
+      "alphaTest": 0.3,
+      "doubleSide": true
+    },
+    "m_bush_flora_a_leaf1": {
+      "texture": "textures/flora_leaf1.png",
+      "alphaTest": 0.3,
+      "doubleSide": true
+    },
+    "m_bush_flora_b_branch": {
+      "texture": "textures/flora_branch.png",
+      "alphaTest": 0.3,
+      "doubleSide": true
+    },
+    "m_bush_flora_b_leaf1": {
+      "texture": "textures/flora_leaf1.png",
+      "alphaTest": 0.3,
+      "doubleSide": true
+    },
+    "m_tree_park_a_tree1_mt1": {
+      "texture": "textures/parks_tree1_bark.jpg"
+    },
+    "m_tree_park_a_tree1_mt2": {
+      "texture": "textures/parks_tree1_leaf.png",
+      "alphaTest": 0.3,
+      "doubleSide": true
+    },
+    "m_tree_laxer_a_none_ast3_png": {
+      "texture": "textures/laxer_ast3.png",
+      "alphaTest": 0.3,
+      "doubleSide": true
+    },
+    "m_tree_laxer_a_none_bark_wh_png": {
+      "texture": "textures/laxer_bark_wh.jpg"
+    },
+    "m_tree_pine_a_leaf": {
+      "texture": "textures/laxer_ast5.png",
+      "alphaTest": 0.3,
+      "doubleSide": true
+    },
+    "m_tree_pine_a_bark": {
+      "texture": "textures/laxer_bark_pine_wh.jpg"
+    },
+    "m_sky_set1": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_sky_set1.jpg"
+    },
+    "m_sky_set2": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_sky_set2.jpg"
+    },
+    "m_sky_set3": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_sky_set3.jpg"
+    },
+    "m_sky_set4": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_sky_set4.jpg"
+    },
+    "m_hq_res_a": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_hq_res_a.jpg"
+    },
+    "m_hq_res_b": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_hq_res_b.jpg"
+    },
+    "m_hq_res_c": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_hq_res_c.jpg"
+    },
+    "m_hq_res_d": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_hq_res_d.jpg"
+    },
+    "m_hq_res_e": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_hq_res_e.jpg"
+    },
+    "m_hq_res_f": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_hq_res_f.jpg"
+    },
+    "m_hq_res_g": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_hq_res_g.jpg"
+    },
+    "m_hq_res_h": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_hq_res_h.jpg"
+    },
+    "m_rodin_res_a1_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_res_a1_baked.jpg"
+    },
+    "m_rodin_apt_a_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_apt_a_baked.jpg"
+    },
+    "m_rodin_res_a3_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_res_a3_baked.jpg"
+    },
+    "m_rodin_res_a4_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_res_a4_baked.jpg"
+    },
+    "m_rodin_res_a5_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_res_a5_baked.jpg"
+    },
+    "m_rodin_res_a6_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_res_a6_baked.jpg"
+    },
+    "m_rodin_res_b1_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_res_b1_baked.jpg"
+    },
+    "m_rodin_res_b2_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_res_b2_baked.jpg"
+    },
+    "m_rodin_res_b3_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_res_b3_baked.jpg"
+    },
+    "m_rodin_res_b4_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_res_b4_baked.jpg"
+    },
+    "m_rodin_res_b5_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_res_b5_baked.jpg"
+    },
+    "m_rodin_res_b6_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_res_b6_baked.jpg"
+    },
+    "m_rodin_vesta_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_vesta_baked.jpg"
+    },
+    "m_rodin_res_a2_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_res_a2_baked.jpg"
+    },
+    "m_rodin_com_c2_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_com_c2_baked.jpg"
+    },
+    "m_rodin_com_c3_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_com_c3_baked.jpg"
+    },
+    "m_rodin_com_c4_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_com_c4_baked.jpg"
+    },
+    "m_rodin_com_c5_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_com_c5_baked.jpg"
+    },
+    "m_rodin_com_c6_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_com_c6_baked.jpg"
+    },
+    "m_rodin_com_c7_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_com_c7_baked.jpg"
+    },
+    "m_rodin_ind_i1_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_ind_i1_baked.jpg"
+    },
+    "m_rodin_ind_i4_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_ind_i4_baked.jpg"
+    },
+    "m_rodin_ind_i5_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_ind_i5_baked.jpg"
+    },
+    "m_rodin_ind_i6_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_ind_i6_baked.jpg"
+    },
+    "m_rodin_ind_i7_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_ind_i7_baked.jpg"
+    },
+    "m_rodin_lab_r1_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_lab_r1_baked.jpg"
+    },
+    "m_rodin_lab_r3_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_lab_r3_baked.jpg"
+    },
+    "m_rodin_lab_r4_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_lab_r4_baked.jpg"
+    },
+    "m_rodin_lab_r6_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_lab_r6_baked.jpg"
+    },
+    "m_rodin_sub_a_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_sub_a_baked.jpg"
+    },
+    "m_rodin_sub_b_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_sub_b_baked.jpg"
+    },
+    "m_rodin_sub_c_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_sub_c_baked.jpg"
+    },
+    "m_rodin_sub_d_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_sub_d_baked.jpg"
+    },
+    "m_rodin_town_a_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_town_a_baked.jpg"
+    },
+    "m_rodin_town_b_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_town_b_baked.jpg"
+    },
+    "m_rodin_town_c_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_town_c_baked.jpg"
+    },
+    "m_rodin_town_d_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_town_d_baked.jpg"
+    },
+    "m_rodin_mil_a_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_mil_a_baked.jpg"
+    },
+    "m_rodin_mil_b_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_mil_b_baked.jpg"
+    },
+    "m_rodin_mil_c_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_mil_c_baked.jpg"
+    },
+    "m_rodin_mil_d_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_mil_d_baked.jpg"
+    },
+    "m_rodin_mil_e_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_mil_e_baked.jpg"
+    },
+    "m_rodin_mil_f_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_mil_f_baked.jpg"
+    },
+    "m_rodin_com_c10_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_com_c10_baked.jpg"
+    },
+    "m_rodin_com_c11_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_com_c11_baked.jpg"
+    },
+    "m_rodin_com_c8_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_com_c8_baked.jpg"
+    },
+    "m_rodin_lab_r7_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_lab_r7_baked.jpg"
+    },
+    "m_rodin_lab_r8_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_lab_r8_baked.jpg"
+    },
+    "m_rodin_sub_e_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_sub_e_baked.jpg"
+    },
+    "m_rodin_sub_f_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_sub_f_baked.jpg"
+    },
+    "m_rodin_sub_g_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_sub_g_baked.jpg"
+    },
+    "m_rodin_ind_sub_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_ind_sub_baked.jpg"
+    },
+    "m_rodin_ind_shed_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_ind_shed_baked.jpg"
+    },
+    "m_rodin_ind_shop_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_ind_shop_baked.jpg"
+    },
+    "m_rodin_ind_tank_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_ind_tank_baked.jpg"
+    },
+    "m_rodin_lab_data_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_lab_data_baked.jpg"
+    },
+    "m_rodin_lab_green_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_lab_green_baked.jpg"
+    },
+    "m_rodin_lab_sensor_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_lab_sensor_baked.jpg"
+    },
+    "m_rodin_com_strip_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_com_strip_baked.jpg"
+    },
+    "m_rodin_com_corner_baked": {
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "texture": "textures/m_rodin_com_corner_baked.jpg"
+    },
+    "m_hy_res_a1_albedo": {
+      "texture": "textures/m_hy_res_a1_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_hy_res_a3_albedo": {
+      "texture": "textures/m_hy_res_a3_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_apt_a_albedo": {
+      "texture": "textures/m_tp_apt_a_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_sub_c_albedo": {
+      "texture": "textures/m_tp_sub_c_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_sub_e_albedo": {
+      "texture": "textures/m_tp_sub_e_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_mil_c_albedo": {
+      "texture": "textures/m_tp_mil_c_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_lab_r7_albedo": {
+      "texture": "textures/m_tp_lab_r7_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_sub_d_albedo": {
+      "texture": "textures/m_tp_sub_d_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_sub_f2_albedo": {
+      "texture": "textures/m_tp_sub_f2_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_sub_g2_albedo": {
+      "texture": "textures/m_tp_sub_g2_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_apt_duo_albedo": {
+      "texture": "textures/m_tp_apt_duo_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_apt_small_a_albedo": {
+      "texture": "textures/m_tp_apt_small_a_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_apt_small_b_albedo": {
+      "texture": "textures/m_tp_apt_small_b_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_apt_small_c_albedo": {
+      "texture": "textures/m_tp_apt_small_c_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_com_c8_albedo": {
+      "texture": "textures/m_tp_com_c8_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_com_strip_albedo": {
+      "texture": "textures/m_tp_com_strip_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_com_off_a_albedo": {
+      "texture": "textures/m_tp_com_off_a_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_ind_i1_albedo": {
+      "texture": "textures/m_tp_ind_i1_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_ind_i2_albedo": {
+      "texture": "textures/m_tp_ind_i2_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_ind_i3_albedo": {
+      "texture": "textures/m_tp_ind_i3_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_ind_i5_albedo": {
+      "texture": "textures/m_tp_ind_i5_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_ind_i7_albedo": {
+      "texture": "textures/m_tp_ind_i7_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_mil_a_albedo": {
+      "texture": "textures/m_tp_mil_a_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_mil_e_albedo": {
+      "texture": "textures/m_tp_mil_e_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_mil_f_albedo": {
+      "texture": "textures/m_tp_mil_f_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_lab_pod_albedo": {
+      "texture": "textures/m_tp_lab_pod_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_hy_res_a2_albedo": {
+      "texture": "textures/m_hy_res_a2_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_hy_res_a6_albedo": {
+      "texture": "textures/m_hy_res_a6_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_hy_res_b1_albedo": {
+      "texture": "textures/m_hy_res_b1_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_hy_res_b2_albedo": {
+      "texture": "textures/m_hy_res_b2_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_hy_res_b6_albedo": {
+      "texture": "textures/m_hy_res_b6_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_hy_sub_a_albedo": {
+      "texture": "textures/m_hy_sub_a_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_comres_hall_albedo": {
+      "texture": "textures/m_tp_comres_hall_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_datacenter_albedo": {
+      "texture": "textures/m_tp_datacenter_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_ind_tanks_albedo": {
+      "texture": "textures/m_tp_ind_tanks_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_powerplant_albedo": {
+      "texture": "textures/m_tp_powerplant_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_mil_radar_albedo": {
+      "texture": "textures/m_tp_mil_radar_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_mil_tower_albedo": {
+      "texture": "textures/m_tp_mil_tower_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_ct_car_a": {
+      "texture": "textures/m_ct_car_a.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_ct_car_b": {
+      "texture": "textures/m_ct_car_b.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_ct_car_c": {
+      "texture": "textures/m_ct_car_c.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_ct_car_d": {
+      "texture": "textures/m_ct_car_d.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_ct_suv_a": {
+      "texture": "textures/m_ct_suv_a.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_ct_suv_b": {
+      "texture": "textures/m_ct_suv_b.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_ct_van_a": {
+      "texture": "textures/m_ct_van_a.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_ct_van_b": {
+      "texture": "textures/m_ct_van_b.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_ct_truck_a": {
+      "texture": "textures/m_ct_truck_a.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_ct_truck_b": {
+      "texture": "textures/m_ct_truck_b.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_ct_truck_c": {
+      "texture": "textures/m_ct_truck_c.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_wall": {
+      "texture": "textures/m_mb_wall.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_details": {
+      "texture": "textures/m_mb_details.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_windows": {
+      "texture": "textures/m_mb_windows.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_tent_net": {
+      "texture": "textures/m_mb_tent_net.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "doubleSide": true
+    },
+    "m_mb_tent_details": {
+      "texture": "textures/m_mb_tent_details.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_tent_cloth": {
+      "texture": "textures/m_mb_tent_cloth.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_tent2_cloth": {
+      "texture": "textures/m_mb_tent2_cloth.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_tent2_details": {
+      "texture": "textures/m_mb_tent2_details.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_container_steel": {
+      "texture": "textures/m_mb_container_steel.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_container": {
+      "texture": "textures/m_mb_container.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_barrier": {
+      "texture": "textures/m_mb_barrier.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_concrete": {
+      "texture": "textures/m_mb_concrete.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_sandbag": {
+      "texture": "textures/m_mb_sandbag.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_floodlight": {
+      "texture": "textures/m_mb_floodlight.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_floodlight_wires": {
+      "texture": "textures/m_mb_floodlight_wires.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_flag": {
+      "texture": "textures/m_mb_flag.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "doubleSide": true
+    },
+    "m_mb_flagpole": {
+      "texture": "textures/m_mb_flagpole.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_crate_large": {
+      "texture": "textures/m_mb_crate_large.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_crate": {
+      "texture": "textures/m_mb_crate.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_spool": {
+      "texture": "textures/m_mb_spool.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_water_barrel_lid": {
+      "texture": "textures/m_mb_water_barrel_lid.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_water_barrel": {
+      "texture": "textures/m_mb_water_barrel.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_radar": {
+      "texture": "textures/m_mb_radar.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_radar_support": {
+      "texture": "textures/m_mb_radar_support.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_bargate": {
+      "texture": "textures/m_mb_bargate.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_mb_portaloo": {
+      "texture": "textures/m_mb_portaloo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rp_hangar_a": {
+      "texture": "textures/m_rp_hangar_a.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rp_hangar_b": {
+      "texture": "textures/m_rp_hangar_b.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rp_hangar_c": {
+      "texture": "textures/m_rp_hangar_c.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rp_hangar_d": {
+      "texture": "textures/m_rp_hangar_d.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rp_oil_tank_a": {
+      "texture": "textures/m_rp_oil_tank_a.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rp_oil_tank_b": {
+      "texture": "textures/m_rp_oil_tank_b.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rp_container": {
+      "texture": "textures/m_rp_container.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rp_dumpster": {
+      "texture": "textures/m_rp_dumpster.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rp_barrel": {
+      "texture": "textures/m_rp_barrel.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rp_wood_box": {
+      "texture": "textures/m_rp_wood_box.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rp_generator": {
+      "texture": "textures/m_rp_generator.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rp_electric_box": {
+      "texture": "textures/m_rp_electric_box.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rp_conditioner": {
+      "texture": "textures/m_rp_conditioner.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rp_pallet": {
+      "texture": "textures/m_rp_pallet.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rp_pipes": {
+      "texture": "textures/m_rp_pipes.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rp_fence": {
+      "texture": "textures/m_rp_fence.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_rp_road_block": {
+      "texture": "textures/m_rp_road_block.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_constr_parts": {
+      "texture": "textures/m_constr_parts.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_constr_crane": {
+      "texture": "textures/m_constr_crane.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_ind_fact_albedo": {
+      "texture": "textures/m_tp_ind_fact_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_ind_wh_albedo": {
+      "texture": "textures/m_tp_ind_wh_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_mil_block_albedo": {
+      "texture": "textures/m_tp_mil_block_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_apt_modern_albedo": {
+      "texture": "textures/m_tp_apt_modern_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_com_off_b_albedo": {
+      "texture": "textures/m_tp_com_off_b_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_lab_station_albedo": {
+      "texture": "textures/m_tp_lab_station_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_sub_h_albedo": {
+      "texture": "textures/m_tp_sub_h_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_mil_green_albedo": {
+      "texture": "textures/m_tp_mil_green_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_mil_depot_albedo": {
+      "texture": "textures/m_tp_mil_depot_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_wl_mil_a": {
+      "texture": "textures/m_wl_mil_a.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_wl_mil_b": {
+      "texture": "textures/m_wl_mil_b.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_ind_barn_a_albedo": {
+      "texture": "textures/m_tp_ind_barn_a_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_ind_farm_a_albedo": {
+      "texture": "textures/m_tp_ind_farm_a_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_ind_farmland_a_albedo": {
+      "texture": "textures/m_tp_ind_farmland_a_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_ind_crops_a_albedo": {
+      "texture": "textures/m_tp_ind_crops_a_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_com_blue_a_albedo": {
+      "texture": "textures/m_tp_com_blue_a_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_com_mall_a_albedo": {
+      "texture": "textures/m_tp_com_mall_a_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_com_off_c_albedo": {
+      "texture": "textures/m_tp_com_off_c_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    },
+    "m_tp_mil_bunker_a_albedo": {
+      "texture": "textures/m_tp_mil_bunker_a_albedo.jpg",
+      "color": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}
